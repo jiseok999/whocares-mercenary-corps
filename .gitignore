@@ -1,0 +1,61 @@
+# ─────────────────────────────────────────────────────────────
+# Unity 프로젝트 .gitignore
+# ─────────────────────────────────────────────────────────────
+
+# Unity가 자동 생성하는 폴더 (저장소 루트 기준)
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]serSettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+
+# 빌드 산출물
+*.apk
+*.aab
+*.unitypackage
+*.app
+/Whocares_v1.0.zip/
+/ExportedUnitImages/
+*_BurstDebugInformation_DoNotShip/
+
+# Sentry 네이티브 빌드 캐시
+/.sentry-native/
+crashlytics-build.properties
+sentry_symbol_upload*
+
+# Plastic SCM (이 저장소는 git으로 이전했으므로 제외)
+/.plastic/
+/.utmp/
+/ignore.conf
+
+# Visual Studio / Rider / VS Code 생성 파일
+.vs/
+.idea/
+.vscode/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Python 캐시 (tools/ 의 로컬라이제이션 생성 스크립트용)
+__pycache__/
+*.pyc
+
+# OS 생성 파일
+.DS_Store
+Thumbs.db
+desktop.ini

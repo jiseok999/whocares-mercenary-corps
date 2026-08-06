@@ -1,0 +1,3194 @@
+{
+  "(Active)": {
+    "Th": "(คล่องแคล่ว)",
+    "Es": "(Activo)",
+    "Pt": "(Ativo)",
+    "Fr": "(Actif)",
+    "It": "(Attivo)",
+    "De": "(Aktiv)"
+  },
+  "({0} more unique buys to lock)": {
+    "Th": "({0} การซื้อที่ไม่ซ้ำใครเพื่อล็อค)",
+    "Es": "({0} compras más exclusivas para bloquear)",
+    "Pt": "({0} mais compras exclusivas para bloquear)",
+    "Fr": "({0} autres achats uniques à verrouiller)",
+    "It": "({0} altri acquisti unici da bloccare)",
+    "De": "({0} weitere einmalige Käufe zum Sperren)"
+  },
+  "+1 afterimage shot (75%)": {
+    "Th": "+1 ภาพติดตา (75%)",
+    "Es": "+1 disparo de imagen residual (75%)",
+    "Pt": "+1 foto pós-imagem (75%)",
+    "Fr": "+1 photo rémanente (75%)",
+    "It": "+1 scatto immagine residua (75%)",
+    "De": "+1 Nachbildaufnahme (75 %)"
+  },
+  "+1 delayed homing shot (90%)": {
+    "Th": "+1 ช็อตกลับบ้านดีเลย์ (90%)",
+    "Es": "+1 disparo de referencia retrasado (90%)",
+    "Pt": "+1 tiro inicial atrasado (90%)",
+    "Fr": "+1 tir à tête chercheuse retardé (90%)",
+    "It": "+1 tiro a ricerca ritardato (90%)",
+    "De": "+1 verzögerter Zielsuchschuss (90 %)"
+  },
+  "+2 side shots (60%) · afterimage persists": {
+    "Th": "+2 ภาพด้านข้าง (60%) · ภาพติดตายังคงอยู่",
+    "Es": "+2 tomas laterales (60%) · la imagen residual persiste",
+    "Pt": "+2 fotos laterais (60%) · A pós-imagem persiste",
+    "Fr": "+2 plans latéraux (60%) · l'image rémanente persiste",
+    "It": "+2 scatti laterali (60%) · l'immagine residua persiste",
+    "De": "+2 Seitenaufnahmen (60 %) · Nachbild bleibt bestehen"
+  },
+  "+3rd arrow (70%)": {
+    "Th": "ลูกศร +3 (70%)",
+    "Es": "+3ra flecha (70%)",
+    "Pt": "+3ª seta (70%)",
+    "Fr": "+3ème flèche (70%)",
+    "It": "+3a freccia (70%)",
+    "De": "+3. Pfeil (70 %)"
+  },
+  "+3rd target (65%)": {
+    "Th": "เป้าหมาย +3 (65%)",
+    "Es": "+3er objetivo (65%)",
+    "Pt": "+3ª meta (65%)",
+    "Fr": "+3ème cible (65%)",
+    "It": "+3° obiettivo (65%)",
+    "De": "+3. Ziel (65 %)"
+  },
+  "+4th target (75%)": {
+    "Th": "เป้าหมายที่ 4 (75%)",
+    "Es": "+4to objetivo (75%)",
+    "Pt": "+4ª meta (75%)",
+    "Fr": "+4ème cible (75%)",
+    "It": "+4° obiettivo (75%)",
+    "De": "+ 4. Ziel (75 %)"
+  },
+  "+Permanent": {
+    "Th": "+ถาวร",
+    "Es": "+Permanente",
+    "Pt": "+Permanente",
+    "Fr": "+Permanent",
+    "It": "+Permanente",
+    "De": "+Permanent"
+  },
+  "+{0}": {
+    "Th": "+{0}",
+    "Es": "+{0}",
+    "Pt": "+{0}",
+    "Fr": "+{0}",
+    "It": "+{0}",
+    "De": "+{0}"
+  },
+  ", chain explosion on kill": {
+    "Th": ", ระเบิดลูกโซ่เมื่อฆ่า",
+    "Es": ", explosión en cadena al matar",
+    "Pt": ", explosão em cadeia ao matar",
+    "Fr": ", explosion en chaîne en tuant",
+    "It": ", esplosione a catena all'uccisione",
+    "De": ", Kettenexplosion beim Töten"
+  },
+  "/s": {
+    "Th": "/วิ",
+    "Es": "/s",
+    "Pt": "/s",
+    "Fr": "/s",
+    "It": "/S",
+    "De": "/S"
+  },
+  "2 hits per target (2nd 80%)": {
+    "Th": "2 ครั้งต่อเป้าหมาย (2nd 80%)",
+    "Es": "2 golpes por objetivo (segundo 80%)",
+    "Pt": "2 acertos por alvo (2º 80%)",
+    "Fr": "2 coups par cible (2ème 80%)",
+    "It": "2 colpi per bersaglio (2° 80%)",
+    "De": "2 Treffer pro Ziel (2. 80 %)"
+  },
+  "2 return trips": {
+    "Th": "ไป-กลับ 2 เที่ยว",
+    "Es": "2 viajes de regreso",
+    "Pt": "2 viagens de ida e volta",
+    "Fr": "2 allers-retours",
+    "It": "2 viaggi di andata e ritorno",
+    "De": "2 Hin- und Rückfahrten"
+  },
+  "2-wave burst (2nd 65%)": {
+    "Th": "การระเบิด 2 คลื่น (ครั้งที่ 2 65%)",
+    "Es": "Explosión de 2 ondas (segunda 65%)",
+    "Pt": "Explosão de 2 ondas (2º 65%)",
+    "Fr": "Rafale à 2 ondes (2e 65 %)",
+    "It": "Burst a 2 onde (2° 65%)",
+    "De": "2-Wellen-Burst (2. 65 %)"
+  },
+  "2nd lightning strike (70%)": {
+    "Th": "สายฟ้าฟาดครั้งที่ 2 (70%)",
+    "Es": "Segundo rayo (70%)",
+    "Pt": "2º relâmpago (70%)",
+    "Fr": "2ème coup de foudre (70%)",
+    "It": "2° fulmine (70%)",
+    "De": "2. Blitzeinschlag (70 %)"
+  },
+  "4 corners · range +1.0, ATK +12%": {
+    "Th": "4 มุม · ระยะ +1.0, ATK +12%",
+    "Es": "4 esquinas · alcance +1.0, ATK +12%",
+    "Pt": "4 cantos · alcance +1,0, ATK +12%",
+    "Fr": "4 coins · portée +1,0, ATK +12%",
+    "It": "4 angoli · portata +1,0, ATT +12%",
+    "De": "4 Ecken · Reichweite +1,0, ATK +12 %"
+  },
+  "5-way arrows (outer 70%)": {
+    "Th": "ลูกศร 5 ทิศทาง (นอก 70%)",
+    "Es": "Flechas de 5 direcciones (70% exterior)",
+    "Pt": "Setas de 5 direções (70% externas)",
+    "Fr": "Flèches à 5 directions (extérieures 70%)",
+    "It": "Frecce a 5 direzioni (esterno 70%)",
+    "De": "5-Wege-Pfeile (äußere 70 %)"
+  },
+  "6-way split": {
+    "Th": "แยก 6 ทิศทาง",
+    "Es": "división de 6 vías",
+    "Pt": "Divisão de 6 vias",
+    "Fr": "Division à 6",
+    "It": "Diviso in 6 direzioni",
+    "De": "6-Wege-Split"
+  },
+  "70% slow chance": {
+    "Th": "โอกาสช้า 70%",
+    "Es": "70% de probabilidad lenta",
+    "Pt": "70% de chance de lentidão",
+    "Fr": "70 % de chances lentes",
+    "It": "70% di probabilità lenta",
+    "De": "70 % Chance auf Verlangsamung"
+  },
+  "Abyss Black Knight": {
+    "Th": "อัศวินดำแห่งนรก",
+    "Es": "Caballero Negro del Abismo",
+    "Pt": "Cavaleiro Negro do Abismo",
+    "Fr": "Chevalier noir des abysses",
+    "It": "Cavaliere Nero dell'Abisso",
+    "De": "Abyss Black Knight"
+  },
+  "Activates at {0} units.": {
+    "Th": "เปิดใช้งานที่ {0} หน่วย",
+    "Es": "Se activa en {0} unidades.",
+    "Pt": "Ativa em {0} unidades.",
+    "Fr": "S'active à {0} unités.",
+    "It": "Si attiva alle unità {0}.",
+    "De": "Aktiviert bei {0} Einheiten."
+  },
+  "Afterglow 1.5s (40%)": {
+    "Th": "แสงระเรื่อ 1.5 วินาที (40%)",
+    "Es": "Resplandor 1,5 s (40 %)",
+    "Pt": "Pós-brilho 1,5s (40%)",
+    "Fr": "Rémanence 1,5 s (40 %)",
+    "It": "Bagliore residuo 1,5 s (40%)",
+    "De": "Nachleuchten 1,5 s (40 %)"
+  },
+  "All boss rewards available\nthis run have been claimed.": {
+    "Th": "มีรางวัลบอสทั้งหมด\nการวิ่งครั้งนี้ถูกอ้างสิทธิ์แล้ว",
+    "Es": "Todas las recompensas de jefe disponibles\nesta carrera ha sido reclamada.",
+    "Pt": "Todas as recompensas de chefe disponíveis\nesta corrida foi reivindicada.",
+    "Fr": "Toutes les récompenses de boss disponibles\ncette course a été revendiquée.",
+    "It": "Tutti i premi boss disponibili\nquesta corsa è stata rivendicata.",
+    "De": "Alle Boss-Belohnungen verfügbar\nDieser Lauf wurde beansprucht."
+  },
+  "Allies on blue tiles above/below gain {0} attack speed; range shown as blue tiles.": {
+    "Th": "พันธมิตรบนช่องสีน้ำเงินด้านบน/ด้านล่างได้รับความเร็วโจมตี {0} ช่วงที่แสดงเป็นไทล์สีน้ำเงิน",
+    "Es": "Los aliados en las casillas azules arriba/abajo obtienen {0} velocidad de ataque; rango mostrado como mosaicos azules.",
+    "Pt": "Aliados em blocos azuis acima/abaixo ganham {0} velocidade de ataque; intervalo mostrado como blocos azuis.",
+    "Fr": "Les alliés sur les tuiles bleues au-dessus/en dessous gagnent {0} en vitesse d'attaque ; plage affichée sous forme de tuiles bleues.",
+    "It": "Gli alleati sulle caselle blu sopra/sotto guadagnano {0} velocità d'attacco; intervallo mostrato come tessere blu.",
+    "De": "Verbündete auf blauen Kacheln darüber/darunter erhalten {0} Angriffsgeschwindigkeit; Der Bereich wird als blaue Kacheln angezeigt."
+  },
+  "Allies within {0} tile(s) left/right on the same row gain {1}buffs; range shown as red tiles.": {
+    "Th": "พันธมิตรที่อยู่ในช่อง {0} ช่องซ้าย/ขวาในแถวเดียวกันจะได้รับ {1}บัฟ ช่วงที่แสดงเป็นไทล์สีแดง",
+    "Es": "Los aliados dentro de {0} casillas izquierda/derecha en la misma fila obtienen {1}buffs; El rango se muestra como mosaicos rojos.",
+    "Pt": "Aliados dentro de {0} peças à esquerda/direita na mesma linha ganham {1}buffs; intervalo mostrado como blocos vermelhos.",
+    "Fr": "Les alliés situés dans {0} tuile(s) gauche/droite sur la même ligne gagnent {1}buffs ; plage affichée sous forme de tuiles rouges.",
+    "It": "Gli alleati all'interno di {0} tessere a sinistra/destra sulla stessa riga ottengono {1}buff; intervallo mostrato come tessere rosse.",
+    "De": "Verbündete innerhalb von {0} Plättchen links/rechts in derselben Reihe erhalten {1}Buffs; Der Bereich wird als rote Kacheln angezeigt."
+  },
+  "Anchor (row {0}, col {1}) · 1 tile above/below": {
+    "Th": "จุดยึด (แถว {0}, คอลัมน์ {1}) · 1 ช่องด้านบน/ด้านล่าง",
+    "Es": "Ancla (fila {0}, columna {1}) · 1 mosaico arriba/abajo",
+    "Pt": "Âncora (linha {0}, coluna {1}) · 1 bloco acima/abaixo",
+    "Fr": "Ancrage (rangée {0}, col {1}) · 1 tuile dessus/dessous",
+    "It": "Ancora (riga {0}, colonna {1}) · 1 tessera sopra/sotto",
+    "De": "Anker (Zeile {0}, Spalte {1}) · 1 Kachel oben/unten"
+  },
+  "Anchor (row {0}, col {1}) · {2} tile(s) left/right": {
+    "Th": "จุดยึด (แถว {0}, คอลัมน์ {1}) · {2} ไทล์ ซ้าย/ขวา",
+    "Es": "Ancla (fila {0}, columna {1}) · {2} mosaico(s) izquierda/derecha",
+    "Pt": "Âncora (linha {0}, coluna {1}) · {2} bloco(s) esquerdo/direito",
+    "Fr": "Ancrage (rangée {0}, col {1}) · {2} tuile(s) gauche/droite",
+    "It": "Ancoraggio (riga {0}, colonna {1}) · {2} piastrella(e) sinistra/destra",
+    "De": "Anker (Zeile {0}, Spalte {1}) · {2} Kachel(en) links/rechts"
+  },
+  "Apprentice Frost Mage": {
+    "Th": "เด็กฝึกหัด Frost Mage",
+    "Es": "Aprendiz de mago de hielo",
+    "Pt": "Aprendiz de Mago de Gelo",
+    "Fr": "Apprenti Mage de Givre",
+    "It": "Apprendista Mago del Gelo",
+    "De": "Frostmagierlehrling"
+  },
+  "Apprentice Pyromancer": {
+    "Th": "นักดับเพลิงฝึกหัด",
+    "Es": "Aprendiz de piromante",
+    "Pt": "Aprendiz Piromante",
+    "Fr": "Apprenti Pyromancien",
+    "It": "Apprendista piromante",
+    "De": "Lehrling zum Pyromanten"
+  },
+  "APS {0}": {
+    "Th": "เอพีเอส {0}",
+    "Es": "APS {0}",
+    "Pt": "APS{0}",
+    "Fr": "SAP {0}",
+    "It": "AP{0}",
+    "De": "APS {0}"
+  },
+  "APS {0} → {1}": {
+    "Th": "เอพีเอส {0} → {1}",
+    "Es": "APS {0} → {1}",
+    "Pt": "APS {0} → {1}",
+    "Fr": "SAP {0} → {1}",
+    "It": "APS {0} → {1}",
+    "De": "APS {0} → {1}"
+  },
+  "Arcane Laser": {
+    "Th": "อาร์เคนเลเซอร์",
+    "Es": "Láser arcano",
+    "Pt": "Laser Arcano",
+    "Fr": "Laser arcanique",
+    "It": "Laser arcano",
+    "De": "Arkaner Laser"
+  },
+  "Arrow damage +15%": {
+    "Th": "ความเสียหายจากลูกศร +15%",
+    "Es": "Daño de flecha +15%",
+    "Pt": "Dano de flecha +15%",
+    "Fr": "Dégâts de flèche +15%",
+    "It": "Danno freccia +15%",
+    "De": "Pfeilschaden +15 %"
+  },
+  "ATK +{0} (total)": {
+    "Th": "พลังโจมตี +{0} (ทั้งหมด)",
+    "Es": "ATK +{0} (total)",
+    "Pt": "ATQ +{0} (total)",
+    "Fr": "ATK +{0} (total)",
+    "It": "ATK +{0} (totale)",
+    "De": "ATK +{0} (insgesamt)"
+  },
+  "ATK {0}": {
+    "Th": "พลังโจมตี {0}",
+    "Es": "ATK {0}",
+    "Pt": "ATQ {0}",
+    "Fr": "ATQ {0}",
+    "It": "ATT {0}",
+    "De": "ATK {0}"
+  },
+  "ATK {0} → {1}": {
+    "Th": "พลังโจมตี {0} → {1}",
+    "Es": "ATK {0} → {1}",
+    "Pt": "ATQ {0} → {1}",
+    "Fr": "ATK {0} → {1}",
+    "It": "ATK {0} → {1}",
+    "De": "ATK {0} → {1}"
+  },
+  "ATK+{0}": {
+    "Th": "พลังโจมตี+{0}",
+    "Es": "ATK+{0}",
+    "Pt": "ATQ+{0}",
+    "Fr": "ATK+{0}",
+    "It": "ATK+{0}",
+    "De": "ATK+{0}"
+  },
+  "Attack": {
+    "Th": "จู่โจม",
+    "Es": "Ataque",
+    "Pt": "Ataque",
+    "Fr": "Attaque",
+    "It": "Attacco",
+    "De": "Angriff"
+  },
+  "Attack +10%": {
+    "Th": "โจมตี +10%",
+    "Es": "Ataque +10%",
+    "Pt": "Ataque +10%",
+    "Fr": "Attaque +10%",
+    "It": "Attacco +10%",
+    "De": "Angriff +10 %"
+  },
+  "Attack +10%, special +20%": {
+    "Th": "โจมตี +10% พิเศษ +20%",
+    "Es": "Ataque +10%, especial +20%",
+    "Pt": "Ataque +10%, especial +20%",
+    "Fr": "Attaque +10%, spécial +20%",
+    "It": "Attacco +10%, speciale +20%",
+    "De": "Angriff +10 %, Spezialangriff +20 %"
+  },
+  "Attack interval": {
+    "Th": "ช่วงเวลาการโจมตี",
+    "Es": "Intervalo de ataque",
+    "Pt": "Intervalo de ataque",
+    "Fr": "Intervalle d'attaque",
+    "It": "Intervallo di attacco",
+    "De": "Angriffsintervall"
+  },
+  "Attack interval −12%": {
+    "Th": "ช่วงเวลาการโจมตี −12%",
+    "Es": "Intervalo de ataque −12%",
+    "Pt": "Intervalo de ataque −12%",
+    "Fr": "Intervalle d'attaque −12 %",
+    "It": "Intervallo di attacco −12%",
+    "De": "Angriffsintervall −12 %"
+  },
+  "Attack interval −8%": {
+    "Th": "ช่วงเวลาการโจมตี −8%",
+    "Es": "Intervalo de ataque −8%",
+    "Pt": "Intervalo de ataque −8%",
+    "Fr": "Intervalle d'attaque −8 %",
+    "It": "Intervallo di attacco −8%",
+    "De": "Angriffsintervall −8 %"
+  },
+  "Attack pattern": {
+    "Th": "รูปแบบการโจมตี",
+    "Es": "Patrón de ataque",
+    "Pt": "Padrão de ataque",
+    "Fr": "Modèle d'attaque",
+    "It": "Modello di attacco",
+    "De": "Angriffsmuster"
+  },
+  "Attack Speed": {
+    "Th": "ความเร็วในการโจมตี",
+    "Es": "Velocidad de ataque",
+    "Pt": "Velocidade de ataque",
+    "Fr": "Vitesse d'attaque",
+    "It": "Velocità d'attacco",
+    "De": "Angriffsgeschwindigkeit"
+  },
+  "Attack speed +10%": {
+    "Th": "ความเร็วโจมตี +10%",
+    "Es": "Velocidad de ataque +10%",
+    "Pt": "Velocidade de ataque +10%",
+    "Fr": "Vitesse d'attaque +10%",
+    "It": "Velocità d'attacco +10%",
+    "De": "Angriffsgeschwindigkeit +10 %"
+  },
+  "Attack speed +8%": {
+    "Th": "ความเร็วโจมตี +8%",
+    "Es": "Velocidad de ataque +8%",
+    "Pt": "Velocidade de ataque +8%",
+    "Fr": "Vitesse d'attaque +8%",
+    "It": "Velocità d'attacco +8%",
+    "De": "Angriffsgeschwindigkeit +8 %"
+  },
+  "Attack: {0} (Evolution x{1:0.00})": {
+    "Th": "การโจมตี: {0} (วิวัฒนาการ x{1:0.00})",
+    "Es": "Ataque: {0} (Evolución x{1:0.00})",
+    "Pt": "Ataque: {0} (Evolução x{1:0.00})",
+    "Fr": "Attaque : {0} (Évolution x{1:0.00})",
+    "It": "Attacco: {0} (Evoluzione x{1:0.00})",
+    "De": "Angriff: {0} (Evolution x{1:0.00})"
+  },
+  "Aura extends 2 tiles left/right": {
+    "Th": "ออร่าขยาย 2 แผ่นซ้าย/ขวา",
+    "Es": "Aura se extiende 2 mosaicos hacia la izquierda/derecha",
+    "Pt": "Aura se estende 2 peças para esquerda/direita",
+    "Fr": "Aura étend 2 tuiles gauche/droite",
+    "It": "L'Aura si estende di 2 tessere a sinistra/destra",
+    "De": "Aura erstreckt sich um 2 Kacheln nach links/rechts"
+  },
+  "Auto-collect gold": {
+    "Th": "รวบรวมทองคำอัตโนมัติ",
+    "Es": "Recoger oro automáticamente",
+    "Pt": "Coletar ouro automaticamente",
+    "Fr": "Collecter automatiquement de l'or",
+    "It": "Raccogli automaticamente l'oro",
+    "De": "Gold automatisch einsammeln"
+  },
+  "Awakening": {
+    "Th": "การตื่นขึ้น",
+    "Es": "Despertar",
+    "Pt": "Despertar",
+    "Fr": "Éveil",
+    "It": "Risveglio",
+    "De": "Erwachen"
+  },
+  "Awakening effects": {
+    "Th": "เอฟเฟกต์การตื่นตัว",
+    "Es": "Efectos del despertar",
+    "Pt": "Efeitos de despertar",
+    "Fr": "Effets d'éveil",
+    "It": "Effetti del risveglio",
+    "De": "Erweckende Wirkung"
+  },
+  "Awakening {0}": {
+    "Th": "ตื่นขึ้น {0}",
+    "Es": "Despertar {0}",
+    "Pt": "Despertando {0}",
+    "Fr": "Éveil {0}",
+    "It": "Risveglio {0}",
+    "De": "Erwachen {0}"
+  },
+  "Awk {0}  {1}": {
+    "Th": "อ้าว {0} {1}",
+    "Es": "Mal {0} {1}",
+    "Pt": "Não sei {0} {1}",
+    "Fr": "Hé bien {0} {1}",
+    "It": "Awk {0} {1}",
+    "De": "Awk {0} {1}"
+  },
+  "Awk+{0}": {
+    "Th": "อ๊าก+{0}",
+    "Es": "Mal+{0}",
+    "Pt": "Awk+{0}",
+    "Fr": "Hé bien+{0}",
+    "It": "Awk+{0}",
+    "De": "Awk+{0}"
+  },
+  "Back · leftmost column (col 1)": {
+    "Th": "ด้านหลัง · คอลัมน์ซ้ายสุด (คอลัมน์ 1)",
+    "Es": "Atrás · columna más a la izquierda (col 1)",
+    "Pt": "Voltar · coluna mais à esquerda (coluna 1)",
+    "Fr": "Retour · colonne la plus à gauche (col 1)",
+    "It": "Indietro · colonna più a sinistra (col 1)",
+    "De": "Zurück · Spalte ganz links (Spalte 1)"
+  },
+  "Backline Scope": {
+    "Th": "ขอบเขตแบ็คไลน์",
+    "Es": "Alcance de la línea de fondo",
+    "Pt": "Escopo da linha de fundo",
+    "Fr": "Portée du backline",
+    "It": "Ambito di fondo",
+    "De": "Backline-Bereich"
+  },
+  "Balanced": {
+    "Th": "สมดุล",
+    "Es": "Equilibrado",
+    "Pt": "Equilibrado",
+    "Fr": "Équilibré",
+    "It": "Equilibrato",
+    "De": "Ausgewogen"
+  },
+  "Balanced mix of special roles. Only enemies allowed in the current phase.": {
+    "Th": "การผสมผสานบทบาทพิเศษที่สมดุล อนุญาตเฉพาะศัตรูเท่านั้นในระยะปัจจุบัน",
+    "Es": "Mezcla equilibrada de roles especiales. Sólo se permiten enemigos en la fase actual.",
+    "Pt": "Mistura equilibrada de funções especiais. Somente inimigos permitidos na fase atual.",
+    "Fr": "Mélange équilibré de rôles spéciaux. Seuls les ennemis autorisés dans la phase en cours.",
+    "It": "Mix equilibrato di ruoli speciali. Sono ammessi solo i nemici nella fase attuale.",
+    "De": "Ausgewogener Mix an Sonderrollen. In der aktuellen Phase sind nur Feinde erlaubt."
+  },
+  "Balanced Party": {
+    "Th": "พรรคสมดุล",
+    "Es": "Partido equilibrado",
+    "Pt": "Partido Equilibrado",
+    "Fr": "Parti équilibré",
+    "It": "Partito equilibrato",
+    "De": "Ausgewogene Partei"
+  },
+  "Baron Wings": {
+    "Th": "ปีกบารอน",
+    "Es": "Alas de barón",
+    "Pt": "Asas do Barão",
+    "Fr": "Ailes de baron",
+    "It": "Barone Ali",
+    "De": "Baron Wings"
+  },
+  "Battle Damage": {
+    "Th": "ความเสียหายจากการต่อสู้",
+    "Es": "Daño de batalla",
+    "Pt": "Dano de Batalha",
+    "Fr": "Dommages de combat",
+    "It": "Danno da battaglia",
+    "De": "Kampfschaden"
+  },
+  "Beam 3.5s": {
+    "Th": "บีม 3.5 วินาที",
+    "Es": "Haz 3,5 s",
+    "Pt": "Feixe 3,5s",
+    "Fr": "Faisceau 3,5s",
+    "It": "Fascio 3,5s",
+    "De": "Strahl 3,5 s"
+  },
+  "Blue Goblin": {
+    "Th": "บลูก็อบลิน",
+    "Es": "duende azul",
+    "Pt": "Duende Azul",
+    "Fr": "Gobelin bleu",
+    "It": "Folletto Blu",
+    "De": "Blauer Kobold"
+  },
+  "Board and bench are full — cannot acquire unit.": {
+    "Th": "บอร์ดและม้านั่งเต็ม — ไม่สามารถรับยูนิตได้",
+    "Es": "El tablero y el banco están llenos; no se puede adquirir la unidad.",
+    "Pt": "A diretoria e a bancada estão lotadas – não é possível adquirir unidade.",
+    "Fr": "Le tableau et le banc sont pleins – impossible d’acquérir l’unité.",
+    "It": "Il tabellone e la panchina sono pieni: non è possibile acquisire unità.",
+    "De": "Brett und Bank sind voll – Einheit kann nicht übernommen werden."
+  },
+  "Board full — unit placed on the bench.": {
+    "Th": "คณะกรรมการเต็ม — หน่วยวางอยู่บนม้านั่ง",
+    "Es": "Tablero lleno: unidad colocada en el banco.",
+    "Pt": "Tabuleiro cheio – unidade colocada na bancada.",
+    "Fr": "Plateau plein — unité posée sur le banc.",
+    "It": "Consiglio pieno: unità posizionata in panchina.",
+    "De": "Brett voll – Gerät auf der Bank platziert."
+  },
+  "Board tile": {
+    "Th": "กระเบื้องกระดาน",
+    "Es": "azulejo de tablero",
+    "Pt": "Ladrilho de tabuleiro",
+    "Fr": "Tuile de planche",
+    "It": "Piastrella da tavolo",
+    "De": "Brettfliese"
+  },
+  "Boss": {
+    "Th": "เจ้านาย",
+    "Es": "Jefe",
+    "Pt": "Chefe",
+    "Fr": "Chef",
+    "It": "Capo",
+    "De": "Chef"
+  },
+  "Boss Defeat Reward": {
+    "Th": "รางวัลเอาชนะบอส",
+    "Es": "Recompensa por derrota del jefe",
+    "Pt": "Recompensa de derrota de chefe",
+    "Fr": "Récompense de défaite de boss",
+    "It": "Ricompensa per la sconfitta del boss",
+    "De": "Boss-Besiegungsbelohnung"
+  },
+  "Boss Defeated!": {
+    "Th": "บอสพ่ายแพ้!",
+    "Es": "¡Jefe derrotado!",
+    "Pt": "Chefe derrotado!",
+    "Fr": "Patron vaincu !",
+    "It": "Boss sconfitto!",
+    "De": "Boss besiegt!"
+  },
+  "Boss Party": {
+    "Th": "บอสปาร์ตี้",
+    "Es": "Fiesta del jefe",
+    "Pt": "Festa do Chefe",
+    "Fr": "Fête du patron",
+    "It": "Festa del capo",
+    "De": "Boss-Party"
+  },
+  "Boss Reward": {
+    "Th": "รางวัลบอส",
+    "Es": "Recompensa del jefe",
+    "Pt": "Recompensa do Chefe",
+    "Fr": "Récompense du patron",
+    "It": "Ricompensa del capo",
+    "De": "Boss-Belohnung"
+  },
+  "Boss · synergy · unit effect tiles": {
+    "Th": "บอส · การทำงานร่วมกัน · ไทล์เอฟเฟกต์ยูนิต",
+    "Es": "Jefe · sinergia · mosaicos de efecto de unidad",
+    "Pt": "Chefe · sinergia · peças de efeito de unidade",
+    "Fr": "Boss · synergie · carrelage effet unitaire",
+    "It": "Boss · sinergia · tessere effetto unità",
+    "De": "Boss · Synergie · Einheiteneffektplättchen"
+  },
+  "Bottom Mobility": {
+    "Th": "ความคล่องตัวด้านล่าง",
+    "Es": "Movilidad inferior",
+    "Pt": "Mobilidade Inferior",
+    "Fr": "Mobilité inférieure",
+    "It": "Mobilità del fondo",
+    "De": "Bodenmobilität"
+  },
+  "Bottom row (row {0})": {
+    "Th": "แถวล่าง (แถว {0})",
+    "Es": "Fila inferior (fila {0})",
+    "Pt": "Linha inferior (linha {0})",
+    "Fr": "Rangée du bas (rangée {0})",
+    "It": "Riga inferiore (riga {0})",
+    "De": "Untere Reihe (Zeile {0})"
+  },
+  "Bottom row · attack speed +8%": {
+    "Th": "แถวล่าง · ความเร็วโจมตี +8%",
+    "Es": "Fila inferior · velocidad de ataque +8%",
+    "Pt": "Linha inferior · velocidade de ataque +8%",
+    "Fr": "Rangée du bas · vitesse d'attaque +8 %",
+    "It": "Riga inferiore · velocità d'attacco +8%",
+    "De": "Untere Reihe · Angriffsgeschwindigkeit +8 %"
+  },
+  "Breakthrough": {
+    "Th": "ความก้าวหน้า",
+    "Es": "Descubrimiento",
+    "Pt": "Avanço",
+    "Fr": "Percée",
+    "It": "Svolta",
+    "De": "Durchbruch"
+  },
+  "Breakthrough Party": {
+    "Th": "พรรคก้าวหน้า",
+    "Es": "Fiesta innovadora",
+    "Pt": "Festa Inovadora",
+    "Fr": "Fête révolutionnaire",
+    "It": "Festa rivoluzionaria",
+    "De": "Durchbruchsparty"
+  },
+  "Bruiser": {
+    "Th": "บรุยเซอร์",
+    "Es": "Matón",
+    "Pt": "Bruiser",
+    "Fr": "Cogneur",
+    "It": "Bruciatore",
+    "De": "Bruiser"
+  },
+  "Bruiser Party": {
+    "Th": "ปาร์ตี้บรูซเซอร์",
+    "Es": "Fiesta de matones",
+    "Pt": "Festa Bruiser",
+    "Fr": "Fête des meurtriers",
+    "It": "Festa dei Bruiser",
+    "De": "Bruiser-Party"
+  },
+  "Buffs allies left/right on the same row; range shown as red tiles.": {
+    "Th": "บัฟเพื่อนร่วมทีมซ้าย/ขวาในแถวเดียวกัน ช่วงที่แสดงเป็นไทล์สีแดง",
+    "Es": "Mejora a los aliados a izquierda/derecha en la misma fila; El rango se muestra como mosaicos rojos.",
+    "Pt": "Dá buff aos aliados à esquerda/direita na mesma linha; intervalo mostrado como blocos vermelhos.",
+    "Fr": "Améliore les alliés gauche/droite sur la même ligne ; plage affichée sous forme de tuiles rouges.",
+    "It": "Potenzia gli alleati a sinistra/destra sulla stessa riga; intervallo mostrato come tessere rosse.",
+    "De": "Verstärkt Verbündete links/rechts in derselben Reihe; Der Bereich wird als rote Kacheln angezeigt."
+  },
+  "Buy units from the shop\nand deploy them freely on the board.": {
+    "Th": "ซื้อหน่วยจากร้านค้า\nและนำไปใช้อย่างอิสระบนกระดาน",
+    "Es": "Comprar unidades en la tienda.\ny desplegarlos libremente en el tablero.",
+    "Pt": "Compre unidades na loja\ne coloque-os livremente no tabuleiro.",
+    "Fr": "Acheter des unités dans la boutique\net déployez-les librement sur le tableau.",
+    "It": "Acquista unità dal negozio\ne distribuirli liberamente sul tabellone.",
+    "De": "Kaufen Sie Einheiten im Shop\nund sie frei auf der Tafel einsetzen."
+  },
+  "Buy units from the shop\nand deploy them on the board.": {
+    "Th": "ซื้อหน่วยจากร้านค้า\nและนำไปวางบนกระดาน",
+    "Es": "Comprar unidades en la tienda.\ny desplegarlos en el tablero.",
+    "Pt": "Compre unidades na loja\ne implantá-los no quadro.",
+    "Fr": "Acheter des unités dans la boutique\net déployez-les sur le tableau.",
+    "It": "Acquista unità dal negozio\ne distribuirli sul tabellone.",
+    "De": "Kaufen Sie Einheiten im Shop\nund platzieren Sie sie auf der Tafel."
+  },
+  "Calamity": {
+    "Th": "ภัยพิบัติ",
+    "Es": "Calamidad",
+    "Pt": "Calamidade",
+    "Fr": "Calamité",
+    "It": "Calamità",
+    "De": "Unglück"
+  },
+  "Calamity Mark": {
+    "Th": "มาร์คภัยพิบัติ",
+    "Es": "Marca de calamidad",
+    "Pt": "Marca da Calamidade",
+    "Fr": "Marque de calamité",
+    "It": "Marchio della Calamità",
+    "De": "Unglückszeichen"
+  },
+  "Calamity Pulse": {
+    "Th": "ชีพจรภัยพิบัติ",
+    "Es": "Pulso de calamidad",
+    "Pt": "Pulso de Calamidade",
+    "Fr": "Impulsion de calamité",
+    "It": "Impulso della calamità",
+    "De": "Katastrophenimpuls"
+  },
+  "Calls chain lightning {0}.": {
+    "Th": "โทรสายฟ้าผ่า {0}",
+    "Es": "Llama a la cadena de relámpagos {0}.",
+    "Pt": "Chama corrente de relâmpagos {0}.",
+    "Fr": "Appelle des éclairs en chaîne {0}.",
+    "It": "Chiama fulmini a catena {0}.",
+    "De": "Ruft Kettenblitz {0} auf."
+  },
+  "Cannot deploy here.": {
+    "Th": "ไม่สามารถปรับใช้ได้ที่นี่",
+    "Es": "No se puede implementar aquí.",
+    "Pt": "Não é possível implantar aqui.",
+    "Fr": "Impossible de déployer ici.",
+    "It": "Impossibile eseguire la distribuzione qui.",
+    "De": "Kann hier nicht bereitgestellt werden."
+  },
+  "Cannot move to a non-board tile.": {
+    "Th": "ไม่สามารถย้ายไปยังไทล์ที่ไม่ใช่บอร์ดได้",
+    "Es": "No se puede mover a una loseta que no sea un tablero.",
+    "Pt": "Não é possível mover para uma peça que não seja do tabuleiro.",
+    "Fr": "Impossible de se déplacer vers une tuile hors plateau.",
+    "It": "Non è possibile spostarsi su una tessera diversa dal tabellone.",
+    "De": "Es ist nicht möglich, auf ein Plättchen zu ziehen, das kein Brett ist."
+  },
+  "Cannot purchase during combat.": {
+    "Th": "ไม่สามารถซื้อได้ระหว่างการต่อสู้",
+    "Es": "No se puede comprar durante el combate.",
+    "Pt": "Não é possível comprar durante o combate.",
+    "Fr": "Impossible d'acheter pendant le combat.",
+    "It": "Non è possibile acquistare durante il combattimento.",
+    "De": "Kann nicht während des Kampfes gekauft werden."
+  },
+  "Cannot refresh the shop during combat.": {
+    "Th": "ไม่สามารถรีเฟรชร้านค้าระหว่างการต่อสู้ได้",
+    "Es": "No se puede actualizar la tienda durante el combate.",
+    "Pt": "Não é possível atualizar a loja durante o combate.",
+    "Fr": "Impossible de rafraîchir la boutique pendant le combat.",
+    "It": "Non è possibile aggiornare il negozio durante il combattimento.",
+    "De": "Der Shop kann während des Kampfes nicht aktualisiert werden."
+  },
+  "Center column (col {0})": {
+    "Th": "คอลัมน์กลาง (คอลัมน์ {0})",
+    "Es": "Columna central (col {0})",
+    "Pt": "Coluna central (col {0})",
+    "Fr": "Colonne centrale (col {0})",
+    "It": "Colonna centrale (col {0})",
+    "De": "Mittelspalte (col {0})"
+  },
+  "Center Column Amp": {
+    "Th": "แอมป์คอลัมน์กลาง",
+    "Es": "Amplificador de columna central",
+    "Pt": "Amplificador de coluna central",
+    "Fr": "Ampli colonne centrale",
+    "It": "Amplificatore a colonna centrale",
+    "De": "Mittelsäulenverstärker"
+  },
+  "Center column · ATK +10%, special +20%": {
+    "Th": "เสากลาง · ATK +10%, พิเศษ +20%",
+    "Es": "Columna central · ATK +10%, especial +20%",
+    "Pt": "Coluna central · ATK +10%, especial +20%",
+    "Fr": "Colonne centrale · ATK +10%, spécial +20%",
+    "It": "Colonna centrale · ATT +10%, speciale +20%",
+    "De": "Mittelsäule · ATK +10 %, Spezial +20 %"
+  },
+  "Center Resonance": {
+    "Th": "เสียงสะท้อนจากศูนย์กลาง",
+    "Es": "Resonancia central",
+    "Pt": "Ressonância Central",
+    "Fr": "Résonance centrale",
+    "It": "Risonanza centrale",
+    "De": "Mittenresonanz"
+  },
+  "Center tile (row {0}, col {1})": {
+    "Th": "ไทล์ตรงกลาง (แถว {0}, col {1})",
+    "Es": "Mosaico central (fila {0}, columna {1})",
+    "Pt": "Bloco central (linha {0}, coluna {1})",
+    "Fr": "Carreau central (rangée {0}, colonne {1})",
+    "It": "Riquadro centrale (riga {0}, colonna {1})",
+    "De": "Mittlere Kachel (Zeile {0}, Spalte {1})"
+  },
+  "Center tile · synergy counts ×2": {
+    "Th": "กระเบื้องตรงกลาง · จำนวนการทำงานร่วมกัน ×2",
+    "Es": "Mosaico central · la sinergia cuenta ×2",
+    "Pt": "Bloco central · contagem de sinergia ×2",
+    "Fr": "Tuile centrale · la synergie compte ×2",
+    "It": "Tessera centrale · conta sinergia ×2",
+    "De": "Mittleres Plättchen · Synergie zählt x2"
+  },
+  "Chain 3 targets · 60% damage": {
+    "Th": "เชื่อมโยง 3 เป้าหมาย · ความเสียหาย 60%",
+    "Es": "Encadenar 3 objetivos · 60% de daño",
+    "Pt": "Encadeie 3 alvos · 60% de dano",
+    "Fr": "Chaîne 3 cibles · 60 % de dégâts",
+    "It": "Concatena 3 bersagli · 60% di danno",
+    "De": "Verkette 3 Ziele · 60 % Schaden"
+  },
+  "Chain Lightning": {
+    "Th": "โซ่สายฟ้า",
+    "Es": "Cadena de relámpagos",
+    "Pt": "Cadeia de Relâmpagos",
+    "Fr": "Chaîne d'éclairs",
+    "It": "Fulmine a catena",
+    "De": "Kettenblitz"
+  },
+  "Chain range↑ · +1 chain (max 2)": {
+    "Th": "ช่วงของโซ่↑ · +1 โซ่ (สูงสุด 2)",
+    "Es": "Rango de cadena ↑ · +1 cadena (máx. 2)",
+    "Pt": "Alcance da cadeia↑ · +1 cadeia (máx. 2)",
+    "Fr": "Portée de la chaîne↑ · +1 chaîne (max 2)",
+    "It": "Intervallo di catene↑ · +1 catena (max 2)",
+    "De": "Kettenreichweite ↑ · +1 Kette (max. 2)"
+  },
+  "Chills an enemy {0}.": {
+    "Th": "ทำให้ศัตรูหนาวสั่น {0}",
+    "Es": "Enfría a un enemigo {0}.",
+    "Pt": "Arrepia um inimigo {0}.",
+    "Fr": "Glace un ennemi {0}.",
+    "It": "Raffredda un nemico {0}.",
+    "De": "Kühlt einen Feind ab {0}."
+  },
+  "Chills {1} enemies {0}.": {
+    "Th": "หนาวสั่น {1} ศัตรู {0}",
+    "Es": "Escalofríos {1} enemigos {0}.",
+    "Pt": "Arrepia {1} inimigos {0}.",
+    "Fr": "Frissons {1} ennemis {0}.",
+    "It": "Brividi {1} nemici {0}.",
+    "De": "Kühlt {1} Feinde {0} ab."
+  },
+  "Choose one of three units.": {
+    "Th": "เลือกหนึ่งในสามหน่วย",
+    "Es": "Elija una de las tres unidades.",
+    "Pt": "Escolha uma das três unidades.",
+    "Fr": "Choisissez l'une des trois unités.",
+    "It": "Scegli una delle tre unità.",
+    "De": "Wählen Sie eine von drei Einheiten."
+  },
+  "Choose one.": {
+    "Th": "เลือกหนึ่งรายการ",
+    "Es": "Elige uno.",
+    "Pt": "Escolha um.",
+    "Fr": "Choisissez-en un.",
+    "It": "Scegline uno.",
+    "De": "Wählen Sie eine aus."
+  },
+  "Choose Starting Unit": {
+    "Th": "เลือกหน่วยเริ่มต้น",
+    "Es": "Elija la unidad inicial",
+    "Pt": "Escolha a unidade inicial",
+    "Fr": "Choisir l'unité de départ",
+    "It": "Scegli l'unità iniziale",
+    "De": "Wählen Sie Starteinheit"
+  },
+  "Codex": {
+    "Th": "โคเด็กซ์",
+    "Es": "Códice",
+    "Pt": "Códice",
+    "Fr": "Manuscrit",
+    "It": "Codice",
+    "De": "Kodex"
+  },
+  "Coin-Scraping Beggar": {
+    "Th": "ขอทานขูดเหรียญ",
+    "Es": "Mendigo raspador de monedas",
+    "Pt": "Mendigo raspador de moedas",
+    "Fr": "Mendiant grattant des pièces",
+    "It": "Mendicante raschiatore di monete",
+    "De": "Münzkratzender Bettler"
+  },
+  "Collapse": {
+    "Th": "ทรุด",
+    "Es": "Colapsar",
+    "Pt": "Colapso",
+    "Fr": "Effondrement",
+    "It": "Crollo",
+    "De": "Zusammenbruch"
+  },
+  "Combat stats": {
+    "Th": "สถิติการต่อสู้",
+    "Es": "Estadísticas de combate",
+    "Pt": "Estatísticas de combate",
+    "Fr": "Statistiques de combat",
+    "It": "Statistiche di combattimento",
+    "De": "Kampfstatistiken"
+  },
+  "Combo punch (2nd 70%)": {
+    "Th": "คอมโบพันช์ (ที่ 2 70%)",
+    "Es": "Golpe combinado (segundo 70%)",
+    "Pt": "Soco combinado (2º 70%)",
+    "Fr": "Coup de poing combiné (2ème 70%)",
+    "It": "Pugno combinato (2° 70%)",
+    "De": "Combo-Schlag (2. 70 %)"
+  },
+  "Contact damage +15%": {
+    "Th": "ความเสียหายจากการสัมผัส +15%",
+    "Es": "Daño de contacto +15%",
+    "Pt": "Dano de contato +15%",
+    "Fr": "Dégâts de contact +15%",
+    "It": "Danno da contatto +15%",
+    "De": "Kontaktschaden +15 %"
+  },
+  "Contact tick 0.85s": {
+    "Th": "ติดต่อติ๊ก 0.85 วินาที",
+    "Es": "Marca de contacto 0,85s",
+    "Pt": "Carrapato de contato 0,85s",
+    "Fr": "Tique de contact 0,85s",
+    "It": "Contatto tick 0,85 s",
+    "De": "Kontakttick 0,85 s"
+  },
+  "Corner Point": {
+    "Th": "จุดมุม",
+    "Es": "Punto de esquina",
+    "Pt": "Ponto de canto",
+    "Fr": "Point de coin",
+    "It": "Punto d'angolo",
+    "De": "Eckpunkt"
+  },
+  "Count Justice": {
+    "Th": "นับความยุติธรรม",
+    "Es": "Conde Justicia",
+    "Pt": "Conde Justiça",
+    "Fr": "Comte Justice",
+    "It": "Conte Giustizia",
+    "De": "Graf Justice"
+  },
+  "Cowardly Hunter": {
+    "Th": "นักล่าขี้ขลาด",
+    "Es": "Cazador cobarde",
+    "Pt": "Caçador Covarde",
+    "Fr": "Chasseur lâche",
+    "It": "Cacciatore codardo",
+    "De": "Feiger Jäger"
+  },
+  "Creates a shadow vortex near enemies {0}.": {
+    "Th": "สร้างกระแสน้ำวนเงาใกล้ศัตรู {0}",
+    "Es": "Crea un vórtice de sombras cerca de los enemigos {0}.",
+    "Pt": "Cria um vórtice de sombra perto dos inimigos {0}.",
+    "Fr": "Crée un vortex d'ombre près des ennemis {0}.",
+    "It": "Crea un vortice d'ombra vicino ai nemici {0}.",
+    "De": "Erzeugt einen Schattenwirbel in der Nähe von Feinden {0}."
+  },
+  "Damages enemies on the purple pad on the right every 1s.": {
+    "Th": "สร้างความเสียหายแก่ศัตรูบนแผ่นสีม่วงทางด้านขวาทุกๆ 1 วินาที",
+    "Es": "Daña a los enemigos en la plataforma violeta de la derecha cada 1 segundo.",
+    "Pt": "Causa dano aos inimigos no painel roxo à direita a cada 1s.",
+    "Fr": "Endommage les ennemis sur le pavé violet à droite toutes les 1 secondes.",
+    "It": "Danneggia i nemici sul pad viola a destra ogni 1 secondo.",
+    "De": "Fügt Feinden auf dem violetten Feld rechts alle 1 Sekunde Schaden zu."
+  },
+  "Dark": {
+    "Th": "มืด",
+    "Es": "Oscuro",
+    "Pt": "Escuro",
+    "Fr": "Sombre",
+    "It": "Buio",
+    "De": "Dunkel"
+  },
+  "Dark Elf Archer": {
+    "Th": "ดาร์คเอลฟ์อาร์เชอร์",
+    "Es": "Arquero Elfo Oscuro",
+    "Pt": "Arqueiro Elfo Negro",
+    "Fr": "Archer elfe noir",
+    "It": "Arciere degli Elfi Oscuri",
+    "De": "Dunkelelfen-Bogenschütze"
+  },
+  "Ddujjon Goblin": {
+    "Th": "ดดุลจอน ก็อบลิน",
+    "Es": "Duende Ddujjon",
+    "Pt": "Dujjon Goblin",
+    "Fr": "Gobelin Ddujjon",
+    "It": "Ddujjon Goblin",
+    "De": "Ddujjon Goblin"
+  },
+  "Demon": {
+    "Th": "ปีศาจ",
+    "Es": "Demonio",
+    "Pt": "Demônio",
+    "Fr": "Démon",
+    "It": "Demone",
+    "De": "Dämon"
+  },
+  "Deploy at least one unit on the board before starting.": {
+    "Th": "วางกำลังอย่างน้อยหนึ่งยูนิตบนกระดานก่อนที่จะเริ่ม",
+    "Es": "Despliega al menos una unidad en el tablero antes de comenzar.",
+    "Pt": "Implante pelo menos uma unidade no tabuleiro antes de começar.",
+    "Fr": "Déployez au moins une unité sur le plateau avant de commencer.",
+    "It": "Schiera almeno un'unità sul tabellone prima di iniziare.",
+    "De": "Platzieren Sie vor Beginn mindestens eine Einheit auf dem Spielfeld."
+  },
+  "Deploy on board once": {
+    "Th": "ใช้งานบนเครื่องหนึ่งครั้ง",
+    "Es": "Implementar a bordo una vez",
+    "Pt": "Implante a bordo uma vez",
+    "Fr": "Déployer à bord une seule fois",
+    "It": "Schierati a bordo una volta",
+    "De": "Einmal an Bord bereitstellen"
+  },
+  "Does not auto-attack; boosts ally attack speed on blue tiles above/below.": {
+    "Th": "ไม่โจมตีอัตโนมัติ เพิ่มความเร็วการโจมตีของพันธมิตรบนช่องสีน้ำเงินด้านบน/ด้านล่าง",
+    "Es": "No ataca automáticamente; Aumenta la velocidad de ataque de los aliados en los mosaicos azules arriba/abajo.",
+    "Pt": "Não ataca automaticamente; aumenta a velocidade de ataque dos aliados nos ladrilhos azuis acima/abaixo.",
+    "Fr": "N'attaque pas automatiquement ; augmente la vitesse d'attaque des alliés sur les tuiles bleues au-dessus/en dessous.",
+    "It": "Non attacca automaticamente; aumenta la velocità di attacco degli alleati sulle tessere blu sopra/sotto.",
+    "De": "Führt keinen automatischen Angriff durch; Erhöht die Angriffsgeschwindigkeit des Verbündeten auf blauen Kacheln darüber/darunter."
+  },
+  "Double tap (2nd 80%)": {
+    "Th": "แตะสองครั้ง (ครั้งที่ 2 80%)",
+    "Es": "Doble toque (segundo 80%)",
+    "Pt": "Toque duas vezes (2º 80%)",
+    "Fr": "Appuyez deux fois (2e 80 %)",
+    "It": "Doppio tocco (2° 80%)",
+    "De": "Doppeltippen (2. 80 %)"
+  },
+  "Drops {1} fireballs and embers near enemies {0}.": {
+    "Th": "หยดลูกไฟและถ่าน {1} ใกล้ศัตรู {0}",
+    "Es": "Lanza {1} bolas de fuego y brasas cerca de los enemigos {0}.",
+    "Pt": "Solta {1} bolas de fogo e brasas perto dos inimigos {0}.",
+    "Fr": "Lâche {1} boules de feu et braises près des ennemis {0}.",
+    "It": "Rilascia {1} palle di fuoco e braci vicino ai nemici {0}.",
+    "De": "Lässt {1} Feuerbälle und Glut in der Nähe von Feinden fallen {0}."
+  },
+  "Drops {1} fireballs near enemies {0}.": {
+    "Th": "ทิ้งลูกไฟ {1} ใกล้ศัตรู {0}",
+    "Es": "Lanza {1} bolas de fuego cerca de los enemigos {0}.",
+    "Pt": "Solta bolas de fogo {1} perto dos inimigos {0}.",
+    "Fr": "Lâche {1} boules de feu près des ennemis {0}.",
+    "It": "Lancia {1} palle di fuoco vicino ai nemici {0}.",
+    "De": "Lässt {1} Feuerbälle in der Nähe von Feinden fallen {0}."
+  },
+  "Duke Candy": {
+    "Th": "ดุ๊ก แคนดี้",
+    "Es": "Duque caramelo",
+    "Pt": "Duque Doce",
+    "Fr": "Duc Candy",
+    "It": "Duca Candy",
+    "De": "Herzog Candy"
+  },
+  "Encounter in battle to unlock.": {
+    "Th": "เผชิญหน้าในการต่อสู้เพื่อปลดล็อค",
+    "Es": "Encuentro en batalla para desbloquear.",
+    "Pt": "Encontro em batalha para desbloquear.",
+    "Fr": "Rencontrez-vous au combat pour débloquer.",
+    "It": "Incontro in battaglia per sbloccare.",
+    "De": "Begegnung im Kampf zum Freischalten."
+  },
+  "End explosion (80%)": {
+    "Th": "สิ้นสุดการระเบิด (80%)",
+    "Es": "Fin de la explosión (80%)",
+    "Pt": "Explosão final (80%)",
+    "Fr": "Fin de l'explosion (80%)",
+    "It": "Fine dell'esplosione (80%)",
+    "De": "Endexplosion (80 %)"
+  },
+  "End splash (50%)": {
+    "Th": "สิ้นสุดการสาด (50%)",
+    "Es": "Salpicadura final (50%)",
+    "Pt": "Respingo final (50%)",
+    "Fr": "Fin des éclaboussures (50%)",
+    "It": "Fine splash (50%)",
+    "De": "Endspritzer (50 %)"
+  },
+  "Enemies Defeated": {
+    "Th": "ศัตรูพ่ายแพ้",
+    "Es": "Enemigos derrotados",
+    "Pt": "Inimigos derrotados",
+    "Fr": "Ennemis vaincus",
+    "It": "Nemici sconfitti",
+    "De": "Feinde besiegt"
+  },
+  "Enemies on the purple pad on the right take damage {0}.": {
+    "Th": "ศัตรูบนแผ่นสีม่วงทางด้านขวาได้รับความเสียหาย {0}",
+    "Es": "Los enemigos en la plataforma violeta de la derecha reciben daño {0}.",
+    "Pt": "Os inimigos na área roxa à direita sofrem dano {0}.",
+    "Fr": "Les ennemis sur le pavé violet à droite subissent des dégâts {0}.",
+    "It": "I nemici sul pad viola a destra subiscono danni {0}.",
+    "De": "Gegner auf dem violetten Feld rechts erleiden Schaden {0}."
+  },
+  "Enemies rush in as soon as the round starts!": {
+    "Th": "ศัตรูพุ่งเข้ามาทันทีที่รอบเริ่ม!",
+    "Es": "¡Los enemigos entran corriendo tan pronto como comienza la ronda!",
+    "Pt": "Os inimigos avançam assim que a rodada começa!",
+    "Fr": "Les ennemis se précipitent dès le début du tour !",
+    "It": "I nemici si precipitano non appena inizia il round!",
+    "De": "Sobald die Runde beginnt, stürmen die Feinde herein!"
+  },
+  "Enemy HP Boost": {
+    "Th": "เพิ่ม HP ของศัตรู",
+    "Es": "Aumento de HP del enemigo",
+    "Pt": "Aumento de HP do inimigo",
+    "Fr": "Boost de HP ennemi",
+    "It": "Aumento HP del nemico",
+    "De": "Gegner-HP-Boost"
+  },
+  "Entire Battlefield": {
+    "Th": "สนามรบทั้งหมด",
+    "Es": "Todo el campo de batalla",
+    "Pt": "Campo de batalha inteiro",
+    "Fr": "Champ de bataille entier",
+    "It": "Intero campo di battaglia",
+    "De": "Gesamtes Schlachtfeld"
+  },
+  "Even larger · tick 0.85s": {
+    "Th": "ใหญ่กว่านี้อีก · ขีด 0.85 วินาที",
+    "Es": "Aún más grande · tick 0,85 s",
+    "Pt": "Ainda maior · marque 0,85s",
+    "Fr": "Encore plus grand · tick 0,85s",
+    "It": "Ancora più grande · tick 0,85s",
+    "De": "Noch größer · Tick 0,85s"
+  },
+  "Every 10s, places a freeze pad on a random column.": {
+    "Th": "ทุกๆ 10 วินาที ให้วางแผ่นแช่แข็งบนคอลัมน์สุ่ม",
+    "Es": "Cada 10 segundos, coloca una plataforma de congelación en una columna aleatoria.",
+    "Pt": "A cada 10s, coloca um bloco de congelamento em uma coluna aleatória.",
+    "Fr": "Toutes les 10 secondes, place une zone de gel sur une colonne aléatoire.",
+    "It": "Ogni 10 secondi, posiziona un blocco di congelamento su una colonna casuale.",
+    "De": "Platziert alle 10 Sekunden ein Freeze-Pad auf einer zufälligen Spalte."
+  },
+  "Every 16s, attacks in a straight line from the right column.": {
+    "Th": "ทุกๆ 16 วินาที ให้โจมตีเป็นเส้นตรงจากคอลัมน์ด้านขวา",
+    "Es": "Cada 16 s, ataca en línea recta desde la columna derecha.",
+    "Pt": "A cada 16s, ataca em linha reta pela coluna da direita.",
+    "Fr": "Toutes les 16 secondes, attaque en ligne droite depuis la colonne de droite.",
+    "It": "Ogni 16 secondi, attacca in linea retta dalla colonna di destra.",
+    "De": "Alle 16 Sekunden Angriffe in einer geraden Linie aus der rechten Spalte."
+  },
+  "Every 2s, bounces attacks between the two nearest enemies.": {
+    "Th": "ทุกๆ 2 วินาที จะเด้งการโจมตีระหว่างศัตรูที่อยู่ใกล้ที่สุด 2 ตัว",
+    "Es": "Cada 2 segundos, rebota los ataques entre los dos enemigos más cercanos.",
+    "Pt": "A cada 2s, rebate ataques entre os dois inimigos mais próximos.",
+    "Fr": "Toutes les 2 secondes, fait rebondir les attaques entre les deux ennemis les plus proches.",
+    "It": "Ogni 2 secondi, rimbalza gli attacchi tra i due nemici più vicini.",
+    "De": "Alle 2 Sek. springen Angriffe zwischen den beiden nächsten Feinden ab."
+  },
+  "Every 3s, fires a straight shot that splits on hit.": {
+    "Th": "ทุกๆ 3 วินาที ยิงกระสุนตรงออกไปเมื่อถูกโจมตี",
+    "Es": "Cada 3 segundos, dispara un tiro directo que se divide al impactar.",
+    "Pt": "A cada 3s, dispara um tiro certeiro que se divide ao acertar.",
+    "Fr": "Toutes les 3 secondes, tire un tir droit qui se divise en cas de coup.",
+    "It": "Ogni 3 secondi spara un colpo diretto che si divide in due parti quando viene colpito.",
+    "De": "Feuert alle 3 Sek. einen geraden Schuss ab, der sich bei einem Treffer teilt."
+  },
+  "Every 3s, fires three arrows based on the nearest enemy.": {
+    "Th": "ทุกๆ 3 วินาที ยิงธนูสามลูกตามศัตรูที่ใกล้ที่สุด",
+    "Es": "Cada 3 segundos, dispara tres flechas según el enemigo más cercano.",
+    "Pt": "A cada 3s, dispara três flechas com base no inimigo mais próximo.",
+    "Fr": "Toutes les 3 secondes, tire trois flèches en fonction de l'ennemi le plus proche.",
+    "It": "Ogni 3 secondi, scocca tre frecce in base al nemico più vicino.",
+    "De": "Feuert alle 3 Sekunden drei Pfeile ab, basierend auf dem nächsten Feind."
+  },
+  "Every 4s, roots a random location for damage.": {
+    "Th": "ทุกๆ 4 วินาที รูทตำแหน่งสุ่มเพื่อสร้างความเสียหาย",
+    "Es": "Cada 4 segundos, enraíza una ubicación aleatoria para causar daño.",
+    "Pt": "A cada 4s, enraíza um local aleatório para causar dano.",
+    "Fr": "Toutes les 4 secondes, enracine un emplacement aléatoire pour infliger des dégâts.",
+    "It": "Ogni 4 secondi, fissa una posizione casuale per causare danni.",
+    "De": "Verursacht alle 4 Sek. einen zufälligen Ort, um Schaden zu verursachen."
+  },
+  "Evolution 1 Preview": {
+    "Th": "ตัวอย่างวิวัฒนาการ 1",
+    "Es": "Vista previa de la evolución 1",
+    "Pt": "Antevisão da Evolução 1",
+    "Fr": "Aperçu de l'évolution 1",
+    "It": "Anteprima dell'evoluzione 1",
+    "De": "Vorschau auf Evolution 1"
+  },
+  "Evolution effect": {
+    "Th": "ผลวิวัฒนาการ",
+    "Es": "Efecto evolución",
+    "Pt": "Efeito evolução",
+    "Fr": "Effet d'évolution",
+    "It": "Effetto evoluzione",
+    "De": "Evolutionseffekt"
+  },
+  "Evolution traits": {
+    "Th": "ลักษณะวิวัฒนาการ",
+    "Es": "Rasgos de evolución",
+    "Pt": "Traços de evolução",
+    "Fr": "Traits d'évolution",
+    "It": "Tratti dell'evoluzione",
+    "De": "Evolutionsmerkmale"
+  },
+  "Evolution traits (4·6·9)": {
+    "Th": "ลักษณะวิวัฒนาการ (4·6·9)",
+    "Es": "Rasgos de evolución (4·6·9)",
+    "Pt": "Traços de evolução (4·6·9)",
+    "Fr": "Traits d'évolution (4·6·9)",
+    "It": "Tratti dell'evoluzione (4·6·9)",
+    "De": "Evolutionsmerkmale (4·6·9)"
+  },
+  "Evolution traits (unlock)": {
+    "Th": "ลักษณะวิวัฒนาการ (ปลดล็อค)",
+    "Es": "Rasgos de evolución (desbloquear)",
+    "Pt": "Traços de evolução (desbloquear)",
+    "Fr": "Traits d'évolution (débloqués)",
+    "It": "Tratti evolutivi (sbloccabili)",
+    "De": "Evolutionsmerkmale (freischalten)"
+  },
+  "Evolution traits ▶ Boost!": {
+    "Th": "ลักษณะวิวัฒนาการ ▶ บูสต์!",
+    "Es": "Rasgos de evolución ▶ ¡Impulso!",
+    "Pt": "Traços de evolução ▶ Boost!",
+    "Fr": "Traits d'évolution ▶ Boost !",
+    "It": "Tratti evolutivi ▶ Potenzia!",
+    "De": "Evolutionsmerkmale ▶ Boost!"
+  },
+  "Evolve ▲": {
+    "Th": "วิวัฒนาการ ▲",
+    "Es": "Evolucionar ▲",
+    "Pt": "Evoluir ▲",
+    "Fr": "Évoluer ▲",
+    "It": "Evolvi ▲",
+    "De": "Entwickeln ▲"
+  },
+  "Fast breakthrough specials. After R21, types 8·9 (ultra-fast, revive) appear.": {
+    "Th": "พิเศษที่ก้าวหน้าอย่างรวดเร็ว หลังจาก R21, ประเภท 8·9 (เร็วมาก, ฟื้นคืนชีพ) จะปรากฏขึ้น",
+    "Es": "Especiales de avance rápido. Después de R21, aparecen los tipos 8·9 (ultrarrápido, revivir).",
+    "Pt": "Especiais inovadores rápidos. Após R21, aparecem os tipos 8·9 (ultra-rápido, reviver).",
+    "Fr": "Offres spéciales à percée rapide. Après R21, apparaissent les types 8·9 (ultra-rapide, relance).",
+    "It": "Speciali a svolta rapida. Dopo R21 compaiono i tipi 8·9 (ultraveloce, rianimante).",
+    "De": "Schnelle, bahnbrechende Sonderangebote. Nach R21 erscheinen die Typen 8·9 (ultraschnell, wiederbeleben)."
+  },
+  "Favorite": {
+    "Th": "ที่ชื่นชอบ",
+    "Es": "Favorito",
+    "Pt": "Favorito",
+    "Fr": "Préféré",
+    "It": "Preferito",
+    "De": "Favorit"
+  },
+  "Fire": {
+    "Th": "ไฟ",
+    "Es": "Fuego",
+    "Pt": "Fogo",
+    "Fr": "Feu",
+    "It": "Fuoco",
+    "De": "Feuer"
+  },
+  "Fires a holy beam at the farthest enemy {0}.": {
+    "Th": "ยิงลำแสงศักดิ์สิทธิ์ใส่ศัตรูที่อยู่ไกลที่สุด {0}",
+    "Es": "Dispara un rayo sagrado al enemigo más lejano {0}.",
+    "Pt": "Dispara um raio sagrado no inimigo mais distante {0}.",
+    "Fr": "Tire un rayon sacré sur l'ennemi le plus éloigné {0}.",
+    "It": "Spara un raggio sacro al nemico più lontano {0}.",
+    "De": "Feuert einen heiligen Strahl auf den am weitesten entfernten Feind {0} ab."
+  },
+  "Fires a laser at the nearest enemy every 7s.": {
+    "Th": "ยิงเลเซอร์ใส่ศัตรูที่ใกล้ที่สุดทุกๆ 7 วินาที",
+    "Es": "Dispara un láser al enemigo más cercano cada 7 segundos.",
+    "Pt": "Dispara um laser no inimigo mais próximo a cada 7s.",
+    "Fr": "Tire un laser sur l'ennemi le plus proche toutes les 7 secondes.",
+    "It": "Spara un laser al nemico più vicino ogni 7 secondi.",
+    "De": "Feuert alle 7 Sekunden einen Laser auf den nächsten Feind ab."
+  },
+  "Fires a laser beam at the nearest enemy every 5s.": {
+    "Th": "ยิงลำแสงเลเซอร์ใส่ศัตรูที่ใกล้ที่สุดทุกๆ 5 วินาที",
+    "Es": "Dispara un rayo láser al enemigo más cercano cada 5 segundos.",
+    "Pt": "Dispara um raio laser no inimigo mais próximo a cada 5s.",
+    "Fr": "Tire un rayon laser sur l'ennemi le plus proche toutes les 5 secondes.",
+    "It": "Spara un raggio laser al nemico più vicino ogni 5 secondi.",
+    "De": "Feuert alle 5 Sekunden einen Laserstrahl auf den nächsten Feind ab."
+  },
+  "Fires a piercing shot every 5s.": {
+    "Th": "ยิงกระสุนเจาะทะลุทุกๆ 5 วินาที",
+    "Es": "Dispara un tiro penetrante cada 5 segundos.",
+    "Pt": "Dispara um tiro penetrante a cada 5s.",
+    "Fr": "Tire un tir perçant toutes les 5 secondes.",
+    "It": "Spara un colpo perforante ogni 5 secondi.",
+    "De": "Feuert alle 5 Sekunden einen durchdringenden Schuss ab."
+  },
+  "Fires a reflective projectile every 3s.": {
+    "Th": "ยิงกระสุนสะท้อนแสงทุกๆ 3 วินาที",
+    "Es": "Dispara un proyectil reflectante cada 3 segundos.",
+    "Pt": "Dispara um projétil reflexivo a cada 3s.",
+    "Fr": "Tire un projectile réfléchissant toutes les 3 secondes.",
+    "It": "Spara un proiettile riflettente ogni 3 secondi.",
+    "De": "Feuert alle 3 Sekunden ein reflektierendes Projektil ab."
+  },
+  "Fires a ricochet ball every 5s.": {
+    "Th": "ยิงลูกบอลแฉลบทุกๆ 5 วินาที",
+    "Es": "Dispara una bola que rebota cada 5 segundos.",
+    "Pt": "Dispara uma bola de ricochete a cada 5s.",
+    "Fr": "Tire une balle ricochet toutes les 5 secondes.",
+    "It": "Spara una palla di rimbalzo ogni 5 secondi.",
+    "De": "Feuert alle 5 Sekunden einen Querschlägerball ab."
+  },
+  "Fires an arcane laser at the nearest enemy {0}.": {
+    "Th": "ยิงเลเซอร์เวทมนตร์ไปที่ศัตรูที่ใกล้ที่สุด {0}",
+    "Es": "Dispara un láser arcano al enemigo más cercano {0}.",
+    "Pt": "Dispara um laser arcano no inimigo mais próximo {0}.",
+    "Fr": "Tire un laser arcanique sur l'ennemi le plus proche {0}.",
+    "It": "Spara un laser arcano al nemico più vicino {0}.",
+    "De": "Feuert einen arkanen Laser auf den nächsten Feind ab {0}."
+  },
+  "Fires an electric shot at the nearest enemy every 3.3s.": {
+    "Th": "ยิงกระสุนไฟฟ้าใส่ศัตรูที่ใกล้ที่สุดทุกๆ 3.3 วินาที",
+    "Es": "Dispara un tiro eléctrico al enemigo más cercano cada 3,3 s.",
+    "Pt": "Dispara um tiro elétrico no inimigo mais próximo a cada 3,3s.",
+    "Fr": "Tire un tir électrique sur l'ennemi le plus proche toutes les 3,3 secondes.",
+    "It": "Spara un colpo elettrico al nemico più vicino ogni 3,3 s.",
+    "De": "Feuert alle 3,3 Sekunden einen elektrischen Schuss auf den nächsten Feind ab."
+  },
+  "Fires an ice shard at the nearest enemy {0}.": {
+    "Th": "ยิงเศษน้ำแข็งใส่ศัตรูที่ใกล้ที่สุด {0}",
+    "Es": "Dispara un fragmento de hielo al enemigo más cercano {0}.",
+    "Pt": "Dispara um fragmento de gelo no inimigo mais próximo {0}.",
+    "Fr": "Tire un éclat de glace sur l'ennemi le plus proche {0}.",
+    "It": "Spara un frammento di ghiaccio al nemico più vicino {0}.",
+    "De": "Feuert einen Eissplitter auf den nächsten Feind ab {0}."
+  },
+  "Fires guardian arrows at {1} nearby enemies {0}.": {
+    "Th": "ยิงธนูผู้พิทักษ์ไปที่ {1} ศัตรูที่อยู่ใกล้เคียง {0}",
+    "Es": "Dispara flechas de guardián a {1} enemigos cercanos {0}.",
+    "Pt": "Dispara flechas guardiãs em {1} inimigos próximos {0}.",
+    "Fr": "Tire des flèches de gardien sur {1} ennemis proches {0}.",
+    "It": "Spara frecce guardiane contro {1} nemici vicini {0}.",
+    "De": "Feuert Wächterpfeile auf {1} Feinde in der Nähe ab {0}."
+  },
+  "Fires homing shots at {1} nearby enemies {0}.": {
+    "Th": "ยิงกระสุนกลับบ้านไปที่ {1} ศัตรูที่อยู่ใกล้ {0}",
+    "Es": "Lanza tiros guiados a {1} enemigos cercanos {0}.",
+    "Pt": "Dispara tiros em {1} inimigos próximos {0}.",
+    "Fr": "Tire des tirs à tête chercheuse sur {1} ennemis proches {0}.",
+    "It": "Spara colpi a ricerca contro {1} nemici vicini {0}.",
+    "De": "Feuert Zielschüsse auf {1} in der Nähe befindliche Feinde {0} ab."
+  },
+  "Fires ice at the nearest enemy every 3.3s; may slow on hit.": {
+    "Th": "ยิงน้ำแข็งใส่ศัตรูที่ใกล้ที่สุดทุกๆ 3.3 วินาที อาจช้าลงเมื่อถูกโจมตี",
+    "Es": "Dispara hielo al enemigo más cercano cada 3,3 s; puede disminuir la velocidad al golpear.",
+    "Pt": "Dispara gelo no inimigo mais próximo a cada 3,3s; pode desacelerar ao ser atingido.",
+    "Fr": "Tire de la glace sur l'ennemi le plus proche toutes les 3,3 secondes ; peut ralentir en cas de coup.",
+    "It": "Spara ghiaccio al nemico più vicino ogni 3,3 s; potrebbe rallentare quando viene colpito.",
+    "De": "Feuert alle 3,3 Sek. Eis auf den nächsten Feind ab; kann bei Treffer langsamer werden."
+  },
+  "Fires lasers at the three nearest enemies every 5s.": {
+    "Th": "ยิงเลเซอร์ใส่ศัตรูที่ใกล้ที่สุด 3 ตัวทุกๆ 5 วินาที",
+    "Es": "Dispara láseres a los tres enemigos más cercanos cada 5 segundos.",
+    "Pt": "Dispara lasers nos três inimigos mais próximos a cada 5s.",
+    "Fr": "Tire des lasers sur les trois ennemis les plus proches toutes les 5 secondes.",
+    "It": "Spara laser contro i tre nemici più vicini ogni 5 secondi.",
+    "De": "Feuert alle 5 Sekunden Laser auf die drei nächstgelegenen Feinde ab."
+  },
+  "Fires stun arrows at the two nearest enemies every 8s.": {
+    "Th": "ยิงธนูสตันใส่ศัตรูที่อยู่ใกล้ที่สุด 2 ตัวทุกๆ 8 วินาที",
+    "Es": "Dispara flechas aturdidoras a los dos enemigos más cercanos cada 8 segundos.",
+    "Pt": "Dispara flechas de atordoamento nos dois inimigos mais próximos a cada 8s.",
+    "Fr": "Tire des flèches étourdissantes sur les deux ennemis les plus proches toutes les 8 secondes.",
+    "It": "Spara frecce stordenti contro i due nemici più vicini ogni 8 secondi.",
+    "De": "Feuert alle 8 Sekunden Betäubungspfeile auf die beiden nächstgelegenen Feinde ab."
+  },
+  "Fires {1} gusts forward {0}.": {
+    "Th": "ยิง {1} ลมกระโชกไปข้างหน้า {0}",
+    "Es": "Incendios {1} ráfagas hacia adelante {0}.",
+    "Pt": "Incêndios {1} avançam em rajadas {0}.",
+    "Fr": "Tire {1} rafales vers l'avant {0}.",
+    "It": "Spara {1} raffiche in avanti {0}.",
+    "De": "Feuert {1} ab, Böen vorwärts {0}."
+  },
+  "First meet ({0} units)": {
+    "Th": "พบกันครั้งแรก ({0} หน่วย)",
+    "Es": "Primer encuentro ({0} unidades)",
+    "Pt": "Primeiro encontro ({0} unidades)",
+    "Fr": "Première rencontre ({0} unités)",
+    "It": "Primo incontro ({0} unità)",
+    "De": "Erstes Treffen ({0} Einheiten)"
+  },
+  "Forest Spirit": {
+    "Th": "วิญญาณป่า",
+    "Es": "Espíritu del bosque",
+    "Pt": "Espírito da Floresta",
+    "Fr": "Esprit de la forêt",
+    "It": "Spirito della foresta",
+    "De": "Waldgeist"
+  },
+  "Forest Witch": {
+    "Th": "แม่มดป่า",
+    "Es": "bruja del bosque",
+    "Pt": "Bruxa da Floresta",
+    "Fr": "Sorcière des forêts",
+    "It": "Strega della foresta",
+    "De": "Waldhexe"
+  },
+  "Four corner tiles": {
+    "Th": "กระเบื้องสี่มุม",
+    "Es": "Cuatro azulejos de esquina",
+    "Pt": "Quatro telhas de canto",
+    "Fr": "Quatre tuiles d'angle",
+    "It": "Quattro tessere angolari",
+    "De": "Vier Eckfliesen"
+  },
+  "Freeze 2.5s": {
+    "Th": "แช่แข็ง 2.5 วินาที",
+    "Es": "Congelar 2,5 s",
+    "Pt": "Congelar 2,5s",
+    "Fr": "Geler 2,5 secondes",
+    "It": "Congelare 2,5 secondi",
+    "De": "2,5 Sekunden einfrieren"
+  },
+  "Front · rightmost column (col {0})": {
+    "Th": "ด้านหน้า · คอลัมน์ขวาสุด (col {0})",
+    "Es": "Frente · columna más a la derecha (col {0})",
+    "Pt": "Frente · coluna mais à direita (col {0})",
+    "Fr": "Avant · colonne la plus à droite (col {0})",
+    "It": "Davanti · colonna più a destra (col {0})",
+    "De": "Vorne · Spalte ganz rechts (col {0})"
+  },
+  "Frontline Break": {
+    "Th": "แนวหน้าแตก",
+    "Es": "Rotura de primera línea",
+    "Pt": "Pausa na linha de frente",
+    "Fr": "Pause de première ligne",
+    "It": "Rottura in prima linea",
+    "De": "Bruch an vorderster Front"
+  },
+  "Frost Assassin": {
+    "Th": "นักฆ่าฟรอสต์",
+    "Es": "Asesino de escarcha",
+    "Pt": "Assassino Gelado",
+    "Fr": "Assassin de givre",
+    "It": "Assassino del gelo",
+    "De": "Frost-Attentäter"
+  },
+  "Frost Touch": {
+    "Th": "ฟรอสต์ทัช",
+    "Es": "Toque de escarcha",
+    "Pt": "Toque Gelado",
+    "Fr": "Toucher de givre",
+    "It": "Tocco gelido",
+    "De": "Frostberührung"
+  },
+  "Gale Warlock": {
+    "Th": "เกล วอร์ล็อค",
+    "Es": "Brujo vendaval",
+    "Pt": "Feiticeiro do Vendaval",
+    "Fr": "Démoniste coup de vent",
+    "It": "Stregone Burrasca",
+    "De": "Gale-Hexenmeister"
+  },
+  "Glacial Shard": {
+    "Th": "เศษน้ำแข็ง",
+    "Es": "Fragmento glacial",
+    "Pt": "Fragmento Glacial",
+    "Fr": "Éclat glaciaire",
+    "It": "Frammento glaciale",
+    "De": "Gletschersplitter"
+  },
+  "Goblin": {
+    "Th": "ผี",
+    "Es": "Duende",
+    "Pt": "Duende",
+    "Fr": "Lutin",
+    "It": "Goblin",
+    "De": "Kobold"
+  },
+  "Goblin Homing Shot": {
+    "Th": "ก็อบลิน โฮมมิงช็อต",
+    "Es": "Disparo guiado del duende",
+    "Pt": "Tiro teleguiado de Goblin",
+    "Fr": "Tir à tête chercheuse gobelin",
+    "It": "Tiro a Ricerca dei Goblin",
+    "De": "Goblin-Zielsuchschuss"
+  },
+  "Goblin King": {
+    "Th": "ราชาก็อบลิน",
+    "Es": "Rey Duende",
+    "Pt": "Rei dos Duendes",
+    "Fr": "Roi gobelin",
+    "It": "Re dei Goblin",
+    "De": "Koboldkönig"
+  },
+  "Gold": {
+    "Th": "ทอง",
+    "Es": "Oro",
+    "Pt": "Ouro",
+    "Fr": "Or",
+    "It": "Oro",
+    "De": "Gold"
+  },
+  "Gold CD −{0:0.#}% → −{1:0.#}%": {
+    "Th": "ซีดีทอง −{0:0.#}% → −{1:0.#}%",
+    "Es": "CD de oro −{0:0.#}% → −{1:0.#}%",
+    "Pt": "CD Ouro −{0:0.#}% → −{1:0.#}%",
+    "Fr": "CD Or −{0:0.#}% → −{1:0.#}%",
+    "It": "CD d'oro −{0:0.#}% → −{1:0.#}%",
+    "De": "Gold-CD −{0:0.#}% → −{1:0.#}%"
+  },
+  "Gold gain +2 (total 3)": {
+    "Th": "ได้รับทอง +2 (รวม 3)",
+    "Es": "Ganancia de oro +2 (total 3)",
+    "Pt": "Ganho de ouro +2 (total 3)",
+    "Fr": "Gain d'or +2 (total 3)",
+    "It": "Guadagno in oro +2 (totale 3)",
+    "De": "Goldgewinn +2 (insgesamt 3)"
+  },
+  "Gold Held": {
+    "Th": "ทองถือ",
+    "Es": "Oro retenido",
+    "Pt": "Ouro retido",
+    "Fr": "Or détenu",
+    "It": "Oro tenuto",
+    "De": "Gold gehalten"
+  },
+  "Gold spawn 4s → 3.5s": {
+    "Th": "ทองเกิด 4 วินาที → 3.5 วินาที",
+    "Es": "Generación de oro 4s → 3,5s",
+    "Pt": "Geração de ouro 4s → 3,5s",
+    "Fr": "Apparition d'or 4s → 3,5s",
+    "It": "Generazione oro 4 secondi → 3,5 secondi",
+    "De": "Gold-Spawn 4 Sek. → 3,5 Sek"
+  },
+  "Gold −{0:0.#}%": {
+    "Th": "ทอง {0:0.#}%",
+    "Es": "Oro −{0:0.#}%",
+    "Pt": "Ouro −{0:0.#}%",
+    "Fr": "Or −{0:0.#}%",
+    "It": "Oro −{0:0.#}%",
+    "De": "Gold −{0:0.#}%"
+  },
+  "Golden Knight": {
+    "Th": "อัศวินทองคำ",
+    "Es": "Caballero Dorado",
+    "Pt": "Cavaleiro de Ouro",
+    "Fr": "Chevalier d'or",
+    "It": "Cavaliere d'Oro",
+    "De": "Goldener Ritter"
+  },
+  "Grade 1 {0}. An elite unit with top-tier combat ability.": {
+    "Th": "ชั้นประถมศึกษาปีที่ 1 {0}. หน่วยรบชั้นยอดที่มีความสามารถในการต่อสู้ระดับสูงสุด",
+    "Es": "Grado 1 {0}. Una unidad de élite con capacidad de combate de primer nivel.",
+    "Pt": "1ª série {0}. Uma unidade de elite com capacidade de combate de alto nível.",
+    "Fr": "Niveau 1 {0}. Une unité d'élite dotée de capacités de combat de haut niveau.",
+    "It": "Grado 1 {0}. Un'unità d'élite con abilità di combattimento di alto livello.",
+    "De": "Klasse 1 {0}. Eine Eliteeinheit mit erstklassigen Kampffähigkeiten."
+  },
+  "Grade 2 {0}. A unit with very strong combat ability.": {
+    "Th": "ชั้นประถมศึกษาปีที่ 2 {0}. หน่วยที่มีความสามารถในการต่อสู้ที่แข็งแกร่งมาก",
+    "Es": "Grado 2 {0}. Una unidad con una capacidad de combate muy fuerte.",
+    "Pt": "2ª série {0}. Uma unidade com capacidade de combate muito forte.",
+    "Fr": "Niveau 2 {0}. Une unité avec une très forte capacité de combat.",
+    "It": "Grado 2 {0}. Un'unità con capacità di combattimento molto forte.",
+    "De": "Klasse 2 {0}. Eine Einheit mit sehr starker Kampffähigkeit."
+  },
+  "Grade 3 {0}. A unit with strong combat ability.": {
+    "Th": "ชั้นประถมศึกษาปีที่ 3 {0}. หน่วยที่มีความสามารถในการต่อสู้ที่แข็งแกร่ง",
+    "Es": "Grado 3 {0}. Una unidad con gran capacidad de combate.",
+    "Pt": "3ª série {0}. Uma unidade com forte capacidade de combate.",
+    "Fr": "3e année {0}. Une unité avec une forte capacité de combat.",
+    "It": "Grado 3 {0}. Un'unità con una forte capacità di combattimento.",
+    "De": "Klasse 3 {0}. Eine Einheit mit starker Kampffähigkeit."
+  },
+  "Grade 4 {0}. A unit with improved combat ability.": {
+    "Th": "ชั้นประถมศึกษาปีที่ 4 {0}. หน่วยที่มีความสามารถในการต่อสู้ที่ดีขึ้น",
+    "Es": "Grado 4 {0}. Una unidad con capacidad de combate mejorada.",
+    "Pt": "4ª série {0}. Uma unidade com capacidade de combate aprimorada.",
+    "Fr": "4e année {0}. Une unité avec une capacité de combat améliorée.",
+    "It": "Grado 4 {0}. Un'unità con abilità di combattimento migliorate.",
+    "De": "Klasse 4 {0}. Eine Einheit mit verbesserter Kampffähigkeit."
+  },
+  "Grade 5 {0}. A unit with basic combat ability.": {
+    "Th": "ชั้นประถมศึกษาปีที่ 5 {0}. หน่วยที่มีความสามารถในการต่อสู้ขั้นพื้นฐาน",
+    "Es": "Grado 5 {0}. Una unidad con capacidad de combate básica.",
+    "Pt": "5ª série {0}. Uma unidade com habilidade básica de combate.",
+    "Fr": "5e année {0}. Une unité avec des capacités de combat de base.",
+    "It": "Grado 5 {0}. Un'unità con abilità di combattimento di base.",
+    "De": "Klasse 5 {0}. Eine Einheit mit grundlegenden Kampffähigkeiten."
+  },
+  "Grade Odds": {
+    "Th": "อัตราต่อรองเกรด",
+    "Es": "Probabilidades de grado",
+    "Pt": "Probabilidades de notas",
+    "Fr": "Cotes de note",
+    "It": "Probabilità di grado",
+    "De": "Notenquoten"
+  },
+  "Grade {0}": {
+    "Th": "เกรด {0}",
+    "Es": "Grado {0}",
+    "Pt": "Nota {0}",
+    "Fr": "Catégorie {0}",
+    "It": "Voto {0}",
+    "De": "Note {0}"
+  },
+  "Grade {0} shop pool locked — {1}": {
+    "Th": "เกรด {0} ร้านค้าพูลถูกล็อค — {1}",
+    "Es": "Grupo de tienda de grado {0} bloqueado — {1}",
+    "Pt": "Grupo da loja de grau {0} bloqueado - {1}",
+    "Fr": "Piscine de magasin de niveau {0} verrouillée — {1}",
+    "It": "Grado {0} pool di negozi bloccato — {1}",
+    "De": "Shop-Pool der Klasse {0} gesperrt – {1}"
+  },
+  "Grade {0} unit": {
+    "Th": "เกรด {0} หน่วย",
+    "Es": "Grado {0} unidad",
+    "Pt": "Unidade de grau {0}",
+    "Fr": "Unité de qualité {0}",
+    "It": "Grado {0} unità",
+    "De": "Einheit der Güteklasse {0}"
+  },
+  "Grade {0} {1} — review encounter records, evolution, and awakening info.": {
+    "Th": "เกรด {0} {1} — ทบทวนบันทึกการเผชิญหน้า วิวัฒนาการ และข้อมูลการตื่นตัว",
+    "Es": "Grado {0} {1}: revisa los registros de encuentros, la evolución y la información del despertar.",
+    "Pt": "Nota {0} {1} – revise registros de encontros, evolução e informações de despertar.",
+    "Fr": "Grade {0} {1} – examinez les enregistrements de rencontres, l’évolution et les informations d’éveil.",
+    "It": "Grado {0} {1}: esamina i registri degli incontri, l'evoluzione e le informazioni sul risveglio.",
+    "De": "Note {0} {1} – Sehen Sie sich Begegnungsaufzeichnungen, Entwicklung und Erwachensinformationen an."
+  },
+  "Guardian Arrow": {
+    "Th": "ลูกศรผู้พิทักษ์",
+    "Es": "Flecha guardián",
+    "Pt": "Flecha Guardiã",
+    "Fr": "Flèche de gardien",
+    "It": "Freccia Guardiana",
+    "De": "Wächterpfeil"
+  },
+  "Gust": {
+    "Th": "ลมกระโชกแรง",
+    "Es": "Ráfaga",
+    "Pt": "Rajada",
+    "Fr": "Rafale",
+    "It": "Raffica",
+    "De": "Böe"
+  },
+  "Gust field 3.5s": {
+    "Th": "ลมกระโชกแรง 3.5 วินาที",
+    "Es": "Campo de ráfaga 3,5 s",
+    "Pt": "Campo de rajada 3,5s",
+    "Fr": "Champ de rafale 3,5s",
+    "It": "Campo di raffica 3,5s",
+    "De": "Böenfeld 3,5s"
+  },
+  "Hand of Execution": {
+    "Th": "มือแห่งการประหารชีวิต",
+    "Es": "Mano de ejecución",
+    "Pt": "Mão de Execução",
+    "Fr": "Main d'exécution",
+    "It": "Mano dell'esecuzione",
+    "De": "Hand der Hinrichtung"
+  },
+  "Higher ATK/APS aura": {
+    "Th": "ออร่า ATK/APS ที่สูงขึ้น",
+    "Es": "Mayor aura ATK/APS",
+    "Pt": "Maior aura de ATK/APS",
+    "Fr": "Aura ATK/APS plus élevée",
+    "It": "Aura ATK/APS più alta",
+    "De": "Höhere ATK/APS-Aura"
+  },
+  "Hitbox +15%": {
+    "Th": "ฮิตบ็อกซ์ +15%",
+    "Es": "Caja de impacto +15%",
+    "Pt": "Hitbox +15%",
+    "Fr": "Hitbox +15%",
+    "It": "Hitbox +15%",
+    "De": "Hitbox +15 %"
+  },
+  "Holy Light": {
+    "Th": "แสงศักดิ์สิทธิ์",
+    "Es": "Luz Sagrada",
+    "Pt": "Luz Sagrada",
+    "Fr": "Lumière sacrée",
+    "It": "Santa Luce",
+    "De": "Heiliges Licht"
+  },
+  "Homing +20% · interval −8%": {
+    "Th": "การกลับบ้าน +20% · ช่วงเวลา −8%",
+    "Es": "Referenciado +20% · intervalo −8%",
+    "Pt": "Homing +20% · intervalo −8%",
+    "Fr": "Prise d'origine +20% · intervalle −8%",
+    "It": "Homing +20% · intervallo −8%",
+    "De": "Referenzfahrt +20 % · Intervall −8 %"
+  },
+  "Homing acceleration": {
+    "Th": "การเร่งความเร็วกลับบ้าน",
+    "Es": "Aceleración de referencia",
+    "Pt": "Aceleração de retorno",
+    "Fr": "Accélération de référence",
+    "It": "Accelerazione dell'homing",
+    "De": "Beschleunigung der Referenzfahrt"
+  },
+  "Homing after 3 roams": {
+    "Th": "กลับบ้านหลังจากเดินเตร่มา 3 รอบ",
+    "Es": "Regreso después de 3 recorridos",
+    "Pt": "Voltando para casa após 3 viagens",
+    "Fr": "Retour après 3 itinérances",
+    "It": "Homing dopo 3 vagabondaggi",
+    "De": "Zielsuche nach 3 Roams"
+  },
+  "HP": {
+    "Th": "เอชพี",
+    "Es": "caballos de fuerza",
+    "Pt": "HP",
+    "Fr": "HP",
+    "It": "HP",
+    "De": "PS"
+  },
+  "Ice": {
+    "Th": "น้ำแข็ง",
+    "Es": "Hielo",
+    "Pt": "Gelo",
+    "Fr": "Glace",
+    "It": "Ghiaccio",
+    "De": "Eis"
+  },
+  "Interval −10% · +1 bounce": {
+    "Th": "ช่วงเวลา −10% · +1 การเด้ง",
+    "Es": "Intervalo −10% · +1 rebote",
+    "Pt": "Intervalo −10% · +1 salto",
+    "Fr": "Intervalle −10 % · +1 rebond",
+    "It": "Intervallo −10% · +1 rimbalzo",
+    "De": "Intervall −10 % · +1 Absprung"
+  },
+  "Interval −10% · +50% slow bonus shot": {
+    "Th": "ช่วงเวลา −10% · +50% โบนัสช็อตที่ช้า",
+    "Es": "Intervalo −10% · +50% disparo de bonificación lento",
+    "Pt": "Intervalo −10% · +50% de tiro bônus lento",
+    "Fr": "Intervalle −10 % · +50 % de tir bonus lent",
+    "It": "Intervallo −10% · +50% tiro bonus lento",
+    "De": "Intervall −10 % · +50 % langsamer Bonusschuss"
+  },
+  "Interval −10% · chain damage 100%": {
+    "Th": "ช่วงเวลา −10% · ความเสียหายของโซ่ 100%",
+    "Es": "Intervalo −10% · daño de cadena 100%",
+    "Pt": "Intervalo −10% · dano em cadeia 100%",
+    "Fr": "Intervalle −10 % · dommages à la chaîne 100 %",
+    "It": "Intervallo −10% · danno catena 100%",
+    "De": "Intervall −10 % · Kettenschaden 100 %"
+  },
+  "Knockback +15%": {
+    "Th": "พลังกระเด็น +15%",
+    "Es": "Rechazo +15%",
+    "Pt": "Repulsão +15%",
+    "Fr": "Recul +15%",
+    "It": "Respinta +15%",
+    "De": "Rückstoß +15 %"
+  },
+  "Lance Wave": {
+    "Th": "แลนซ์ เวฟ",
+    "Es": "Lanza Ola",
+    "Pt": "Onda de Lança",
+    "Fr": "Lance Vague",
+    "It": "Lancia Onda",
+    "De": "Lanzenwelle"
+  },
+  "Larger pad · tick +20%": {
+    "Th": "แผ่นใหญ่ขึ้น · ติ๊ก +20%",
+    "Es": "Almohadilla más grande · tick +20%",
+    "Pt": "Bloco maior · marque +20%",
+    "Fr": "Tampon plus grand · coche +20%",
+    "It": "Pad più grande · segno di spunta +20%",
+    "De": "Größeres Pad · Tick +20 %"
+  },
+  "Laser 3.5s": {
+    "Th": "เลเซอร์ 3.5 วินาที",
+    "Es": "Láser 3,5s",
+    "Pt": "Laser 3,5s",
+    "Fr": "Lasers 3,5s",
+    "It": "Laser 3,5s",
+    "De": "Laser 3,5s"
+  },
+  "Laser lasts 3.5s": {
+    "Th": "เลเซอร์ใช้เวลา 3.5 วินาที",
+    "Es": "El láser dura 3,5 s.",
+    "Pt": "O laser dura 3,5s",
+    "Fr": "Le laser dure 3,5 secondes",
+    "It": "Il laser dura 3,5 secondi",
+    "De": "Der Laser dauert 3,5 Sekunden"
+  },
+  "Lashes {1} enemies with vines {0}.": {
+    "Th": "ขนตา {1} ศัตรูด้วยเถาวัลย์ {0}",
+    "Es": "Azote a {1} enemigos con enredaderas {0}.",
+    "Pt": "Chicoteia {1} inimigos com vinhas {0}.",
+    "Fr": "Cils {1} ennemis avec des vignes {0}.",
+    "It": "Colpisce {1} i nemici con i rampicanti {0}.",
+    "De": "Schlägt {1} Feinde mit Ranken {0} nieder."
+  },
+  "Launches a lance wave forward {0}.": {
+    "Th": "ปล่อยคลื่นหอกไปข้างหน้า {0}",
+    "Es": "Lanza una onda de lanza hacia adelante {0}.",
+    "Pt": "Lança uma onda de lança para frente {0}.",
+    "Fr": "Lance une vague de lance vers l'avant {0}.",
+    "It": "Lancia un'ondata di lancia in avanti {0}.",
+    "De": "Schleudert eine Lanzenwelle nach vorne {0}."
+  },
+  "Left column · range +1.5": {
+    "Th": "คอลัมน์ซ้าย · ช่วง +1.5",
+    "Es": "Columna izquierda · rango +1,5",
+    "Pt": "Coluna esquerda · intervalo +1,5",
+    "Fr": "Colonne de gauche · plage +1,5",
+    "It": "Colonna sinistra · intervallo +1,5",
+    "De": "Linke Spalte · Bereich +1,5"
+  },
+  "Level Reached": {
+    "Th": "ถึงระดับแล้ว",
+    "Es": "Nivel alcanzado",
+    "Pt": "Nível alcançado",
+    "Fr": "Niveau atteint",
+    "It": "Livello raggiunto",
+    "De": "Level erreicht"
+  },
+  "Level {0}": {
+    "Th": "ระดับ {0}",
+    "Es": "Nivel {0}",
+    "Pt": "Nível {0}",
+    "Fr": "Niveau {0}",
+    "It": "Livello {0}",
+    "De": "Ebene {0}"
+  },
+  "Level {0} Reached!": {
+    "Th": "ระดับ {0} ถึงแล้ว!",
+    "Es": "¡Nivel {0} alcanzado!",
+    "Pt": "Nível {0} alcançado!",
+    "Fr": "Niveau {0} atteint !",
+    "It": "Livello {0} raggiunto!",
+    "De": "Level {0} erreicht!"
+  },
+  "Light": {
+    "Th": "แสงสว่าง",
+    "Es": "Luz",
+    "Pt": "Luz",
+    "Fr": "Lumière",
+    "It": "Leggero",
+    "De": "Licht"
+  },
+  "Lightning": {
+    "Th": "ฟ้าผ่า",
+    "Es": "Iluminación",
+    "Pt": "Raio",
+    "Fr": "Foudre",
+    "It": "Fulmine",
+    "De": "Blitz"
+  },
+  "Linger 2.5s": {
+    "Th": "ค้างอยู่ 2.5 วินาที",
+    "Es": "Permanecer 2,5 s",
+    "Pt": "Demora 2,5s",
+    "Fr": "Attardez-vous 2,5 secondes",
+    "It": "Aspetta 2,5 secondi",
+    "De": "Verweilen Sie 2,5 Sekunden"
+  },
+  "Lingering aura 1.5s (50% dmg)": {
+    "Th": "ออร่าคงอยู่ 1.5 วินาที (50% dmg)",
+    "Es": "Aura persistente 1,5 s (50 % de daño)",
+    "Pt": "Aura persistente 1,5s (50% de dano)",
+    "Fr": "Aura persistante 1,5 s (50% de dégâts)",
+    "It": "Aura persistente 1,5 s (50% danni)",
+    "De": "Verweilende Aura 1,5 Sek. (50 % Schaden)"
+  },
+  "Lingering freeze 1.2s · interval −10%": {
+    "Th": "การค้างค้าง 1.2 วินาที · ช่วงเวลา −10%",
+    "Es": "Congelación persistente 1,2 s · intervalo −10 %",
+    "Pt": "Congelamento prolongado 1,2s · intervalo −10%",
+    "Fr": "Gel persistant 1,2 s · intervalle −10 %",
+    "It": "Blocco persistente 1,2 s · intervallo −10%",
+    "De": "Anhaltendes Einfrieren 1,2 s · Intervall −10 %"
+  },
+  "Lost Ghost": {
+    "Th": "ผีที่หายไป",
+    "Es": "Fantasma perdido",
+    "Pt": "Fantasma Perdido",
+    "Fr": "Fantôme perdu",
+    "It": "Fantasma perduto",
+    "De": "Verlorener Geist"
+  },
+  "Lv{0}/{1}": {
+    "Th": "เลเวล{0}/{1}",
+    "Es": "Lv{0}/{1}",
+    "Pt": "Nível{0}/{1}",
+    "Fr": "Lv{0}/{1}",
+    "It": "Lv{0}/{1}",
+    "De": "Lv{0}/{1}"
+  },
+  "Mage": {
+    "Th": "ผู้วิเศษ",
+    "Es": "mago",
+    "Pt": "Mago",
+    "Fr": "Mage",
+    "It": "Mago",
+    "De": "Magier"
+  },
+  "Main shot double (2nd 75%)": {
+    "Th": "ยิงหลักสองเท่า (อันดับ 2 75%)",
+    "Es": "Doble tiro principal (2º 75%)",
+    "Pt": "Tiro principal duplo (2º 75%)",
+    "Fr": "Double coup principal (2e 75%)",
+    "It": "Doppio colpo principale (2° 75%)",
+    "De": "Hauptschuss-Doppel (2. 75 %)"
+  },
+  "Many swarm special enemies. Reinforcements make this the largest wave.": {
+    "Th": "ศัตรูพิเศษมากมายมากมาย การเสริมกำลังทำให้คลื่นนี้เป็นคลื่นที่ใหญ่ที่สุด",
+    "Es": "Muchos enemigos especiales pululan. Los refuerzos hacen de esta la ola más grande.",
+    "Pt": "Muitos enxameiam inimigos especiais. Os reforços fazem desta a maior onda.",
+    "Fr": "De nombreux ennemis spéciaux envahissent. Les renforts en font la plus grande vague.",
+    "It": "Molti sciamano di nemici speciali. I rinforzi rendono questa l'onda più grande.",
+    "De": "Viele Schwarmspezialfeinde. Verstärkungen machen diese Welle zur größten."
+  },
+  "Marks {1} nearby enemies {0} (+{2}% damage taken{3}).": {
+    "Th": "ทำเครื่องหมาย {1} ศัตรูใกล้เคียง {0} (+{2}% ความเสียหายที่ได้รับ{3})",
+    "Es": "Marca {1} enemigos cercanos {0} (+{2}% del daño recibido{3}).",
+    "Pt": "Marca {1} inimigos próximos {0} (+{2}% do dano recebido{3}).",
+    "Fr": "Marque {1} ennemis proches {0} (+{2}% de dégâts subis{3}).",
+    "It": "Contrassegna {1} i nemici vicini {0} (+{2}% danni subiti{3}).",
+    "De": "Markiert {1} Feinde in der Nähe {0} (+{2}% erlittenen Schaden{3})."
+  },
+  "Max pad · move speed −15%": {
+    "Th": "แพดสูงสุด · ความเร็วในการเคลื่อนที่ −15%",
+    "Es": "Pad máximo · velocidad de movimiento −15%",
+    "Pt": "Pad máximo · velocidade de movimento -15%",
+    "Fr": "Pad max · vitesse de déplacement −15 %",
+    "It": "Pad massimo · velocità di movimento −15%",
+    "De": "Max. Pad · Bewegungsgeschwindigkeit −15 %"
+  },
+  "Max top/bottom tile APS buff": {
+    "Th": "บัฟ APS บน/ล่างสูงสุด",
+    "Es": "Mejora máxima de APS en los mosaicos superior/inferior",
+    "Pt": "Buff máximo de APS do bloco superior/inferior",
+    "Fr": "Buff APS maximum des tuiles supérieure/inférieure",
+    "It": "Potenziamento APS massimo della tessera superiore/inferiore",
+    "De": "Maximaler APS-Buff für die obere/untere Kachel"
+  },
+  "Medals Earned": {
+    "Th": "เหรียญรางวัลที่ได้รับ",
+    "Es": "Medallas obtenidas",
+    "Pt": "Medalhas conquistadas",
+    "Fr": "Médailles gagnées",
+    "It": "Medaglie guadagnate",
+    "De": "Verdiente Medaillen"
+  },
+  "Medals {0}": {
+    "Th": "เหรียญรางวัล {0}",
+    "Es": "Medallas {0}",
+    "Pt": "Medalhas {0}",
+    "Fr": "Médailles {0}",
+    "It": "Medaglie {0}",
+    "De": "Medaillen {0}"
+  },
+  "Meteor Fall": {
+    "Th": "ดาวตก",
+    "Es": "Caída de meteoritos",
+    "Pt": "Queda de meteoro",
+    "Fr": "Chute de météore",
+    "It": "Caduta di meteoriti",
+    "De": "Meteoritensturz"
+  },
+  "Milestone": {
+    "Th": "เหตุการณ์สำคัญ",
+    "Es": "Hito",
+    "Pt": "Marco",
+    "Fr": "Jalon",
+    "It": "Pietra miliare",
+    "De": "Meilenstein"
+  },
+  "Milestone (R10+)": {
+    "Th": "เหตุการณ์สำคัญ (R10+)",
+    "Es": "Hito (R10+)",
+    "Pt": "Marco (R10+)",
+    "Fr": "Jalon (R10+)",
+    "It": "Traguardo (R10+)",
+    "De": "Meilenstein (R10+)"
+  },
+  "Milestone (R10·20+)": {
+    "Th": "เหตุการณ์สำคัญ (R10·20+)",
+    "Es": "Hito (R10·20+)",
+    "Pt": "Marco (R10·20+)",
+    "Fr": "Jalon (R10·20+)",
+    "It": "Traguardo (R10·20+)",
+    "De": "Meilenstein (R10·20+)"
+  },
+  "Milestone (R10·20·30+)": {
+    "Th": "เหตุการณ์สำคัญ (R10·20·30+)",
+    "Es": "Hito (R10·20·30+)",
+    "Pt": "Marco (R10·20·30+)",
+    "Fr": "Jalon (R10·20·30+)",
+    "It": "Traguardo (R10·20·30+)",
+    "De": "Meilenstein (R10·20·30+)"
+  },
+  "Mischief Goblin": {
+    "Th": "จอมวายร้ายก็อบลิน",
+    "Es": "Duende travieso",
+    "Pt": "Duende Travesso",
+    "Fr": "Gobelin malicieux",
+    "It": "Goblin dispettoso",
+    "De": "Unfug-Kobold"
+  },
+  "Mob −{0:0.#}%": {
+    "Th": "ม็อบ −{0:0.#}%",
+    "Es": "Multitud −{0:0.#}%",
+    "Pt": "Multidão −{0:0.#}%",
+    "Fr": "Foule −{0:0.#}%",
+    "It": "Massa −{0:0.#}%",
+    "De": "Mob −{0:0.#}%"
+  },
+  "Mobility": {
+    "Th": "ความคล่องตัว",
+    "Es": "Movilidad",
+    "Pt": "Mobilidade",
+    "Fr": "Mobilité",
+    "It": "Mobilità",
+    "De": "Mobilität"
+  },
+  "Nature": {
+    "Th": "ธรรมชาติ",
+    "Es": "Naturaleza",
+    "Pt": "Natureza",
+    "Fr": "Nature",
+    "It": "Natura",
+    "De": "Natur"
+  },
+  "Need 3+ permanent upgrade levels": {
+    "Th": "ต้องการระดับการอัพเกรดถาวร 3+ ระดับ",
+    "Es": "Necesita más de 3 niveles de actualización permanente",
+    "Pt": "Precisa de mais de 3 níveis de atualização permanente",
+    "Fr": "Besoin de 3+ niveaux de mise à niveau permanents",
+    "It": "Sono necessari 3+ livelli di aggiornamento permanenti",
+    "De": "Benötigt mindestens 3 permanente Upgrade-Level"
+  },
+  "Need lifetime 5-star evolution": {
+    "Th": "ต้องการวิวัฒนาการระดับ 5 ดาวตลอดชีวิต",
+    "Es": "Necesita una evolución de 5 estrellas de por vida",
+    "Pt": "Precisa de uma evolução vitalícia de 5 estrelas",
+    "Fr": "Besoin d'une évolution 5 étoiles à vie",
+    "It": "Serve un'evoluzione a 5 stelle a vita",
+    "De": "Benötigen Sie eine lebenslange 5-Sterne-Entwicklung"
+  },
+  "No active synergy, boss, or unit tile effects.": {
+    "Th": "ไม่มีเอฟเฟกต์การทำงานร่วมกัน บอส หรือยูนิตไทล์ที่ใช้งานอยู่",
+    "Es": "Sin efectos de sinergia activa, jefe o fichas de unidad.",
+    "Pt": "Sem efeitos de sinergia ativa, chefe ou bloco de unidade.",
+    "Fr": "Aucun effet de synergie active, de boss ou de tuile d'unité.",
+    "It": "Nessuna sinergia attiva, boss o effetto delle tessere unità.",
+    "De": "Keine aktiven Synergie-, Boss- oder Einheitenplättcheneffekte."
+  },
+  "No pattern info": {
+    "Th": "ไม่มีข้อมูลรูปแบบ",
+    "Es": "Sin información de patrón",
+    "Pt": "Nenhuma informação de padrão",
+    "Fr": "Aucune information sur le modèle",
+    "It": "Nessuna informazione sul modello",
+    "De": "Keine Musterinformationen"
+  },
+  "No registered units yet.": {
+    "Th": "ยังไม่มียูนิตที่จดทะเบียน",
+    "Es": "Aún no hay unidades registradas.",
+    "Pt": "Ainda não há unidades cadastradas.",
+    "Fr": "Aucune unité enregistrée pour l'instant.",
+    "It": "Nessuna unità registrata ancora.",
+    "De": "Noch keine registrierten Einheiten."
+  },
+  "Not active yet": {
+    "Th": "ยังไม่ได้ใช้งาน",
+    "Es": "Aún no activo",
+    "Pt": "Ainda não ativo",
+    "Fr": "Pas encore actif",
+    "It": "Non ancora attivo",
+    "De": "Noch nicht aktiv"
+  },
+  "Not enough gold! ({0} gold required)": {
+    "Th": "ทองไม่พอ! ({0} ต้องใช้ทอง)",
+    "Es": "¡No hay suficiente oro! (Se requiere {0} oro)",
+    "Pt": "Não há ouro suficiente! ({0} ouro necessário)",
+    "Fr": "Pas assez d'or ! ({0} or requis)",
+    "It": "Non abbastanza oro! ({0} oro richiesto)",
+    "De": "Nicht genug Gold! ({0} Gold erforderlich)"
+  },
+  "OK": {
+    "Th": "ตกลง",
+    "Es": "DE ACUERDO",
+    "Pt": "OK",
+    "Fr": "D'ACCORD",
+    "It": "OK",
+    "De": "OK"
+  },
+  "once every {0:0.##}s": {
+    "Th": "ทุกๆ {0:0.##}s",
+    "Es": "una vez cada {0:0.##}s",
+    "Pt": "uma vez a cada {0:0.##}s",
+    "Fr": "une fois tous les {0:0.##}s",
+    "It": "una volta ogni {0:0.##}s",
+    "De": "einmal alle {0:0.##}s"
+  },
+  "once every {0}s": {
+    "Th": "ทุกๆ {0}s",
+    "Es": "una vez cada {0}s",
+    "Pt": "uma vez a cada {0}s",
+    "Fr": "une fois tous les {0}s",
+    "It": "una volta ogni {0}s",
+    "De": "einmal alle {0}s"
+  },
+  "once every {0}s ({1}% chance)": {
+    "Th": "หนึ่งครั้งทุกๆ {0}s (โอกาส {1}%)",
+    "Es": "una vez cada {0}s ({1}% de probabilidad)",
+    "Pt": "uma vez a cada {0}s (chance de {1}%)",
+    "Fr": "une fois tous les {0}s ({1} % de chance)",
+    "It": "una volta ogni {0}s ({1}% di possibilità)",
+    "De": "einmal alle {0}s ({1}% Chance)"
+  },
+  "One boss plus phase escorts. Boss stages at R10, R20, R30.": {
+    "Th": "เจ้านายหนึ่งคนพร้อมพี่เลี้ยงระยะหนึ่ง ด่านบอสที่ R10, R20, R30",
+    "Es": "Un jefe más escoltas de fase. Etapas del jefe en R10, R20, R30.",
+    "Pt": "Um chefe mais acompanhantes de fase. Estágios de chefe em R10, R20, R30.",
+    "Fr": "Un boss et des escortes de phase. Étapes de boss à R10, R20, R30.",
+    "It": "Un boss più accompagnatori di fase. Livelli boss a R10, R20, R30.",
+    "De": "Ein Boss plus Phaseneskorte. Boss-Stufen bei R10, R20, R30."
+  },
+  "Order": {
+    "Th": "คำสั่ง",
+    "Es": "Orden",
+    "Pt": "Ordem",
+    "Fr": "Commande",
+    "It": "Ordine",
+    "De": "Befehl"
+  },
+  "Owned Unit Pool": {
+    "Th": "พูลยูนิตที่เป็นเจ้าของ",
+    "Es": "Piscina de unidades propias",
+    "Pt": "Conjunto de unidades próprias",
+    "Fr": "Pool d’unités en propriété",
+    "It": "Pool di unità di proprietà",
+    "De": "Eigener Einheitenpool"
+  },
+  "Owned {0}": {
+    "Th": "เป็นเจ้าของ {0}",
+    "Es": "Propiedad {0}",
+    "Pt": "Propriedade de {0}",
+    "Fr": "Propriété de {0}",
+    "It": "Di proprietà {0}",
+    "De": "Im Besitz von {0}"
+  },
+  "Pad damage 40%": {
+    "Th": "ความเสียหายของแผ่น 40%",
+    "Es": "Daño de la almohadilla 40%",
+    "Pt": "Danos na almofada 40%",
+    "Fr": "Dommages aux tampons 40 %",
+    "It": "Danno al cuscinetto 40%",
+    "De": "Pad-Schaden 40 %"
+  },
+  "Pad duration +35%": {
+    "Th": "ระยะเวลาของแพด +35%",
+    "Es": "Duración de la almohadilla +35%",
+    "Pt": "Duração do pad +35%",
+    "Fr": "Durée du pad +35 %",
+    "It": "Durata del pad +35%",
+    "De": "Pad-Dauer +35 %"
+  },
+  "Pad width +25%": {
+    "Th": "ความกว้างของแผ่นรอง +25%",
+    "Es": "Ancho de la almohadilla +25%",
+    "Pt": "Largura da almofada +25%",
+    "Fr": "Largeur du tampon +25 %",
+    "It": "Larghezza tampone +25%",
+    "De": "Padbreite +25 %"
+  },
+  "Party": {
+    "Th": "งานสังสรรค์",
+    "Es": "Fiesta",
+    "Pt": "Festa",
+    "Fr": "Faire la fête",
+    "It": "Festa",
+    "De": "Party"
+  },
+  "Party Incoming": {
+    "Th": "ปาร์ตี้กำลังมา",
+    "Es": "fiesta entrante",
+    "Pt": "Festa recebida",
+    "Fr": "Fête entrante",
+    "It": "Festa in arrivo",
+    "De": "Party kommt"
+  },
+  "Pattern": {
+    "Th": "ลวดลาย",
+    "Es": "Patrón",
+    "Pt": "Padrão",
+    "Fr": "Modèle",
+    "It": "Modello",
+    "De": "Muster"
+  },
+  "Pattern:": {
+    "Th": "ลวดลาย:",
+    "Es": "Patrón:",
+    "Pt": "Padrão:",
+    "Fr": "Modèle:",
+    "It": "Modello:",
+    "De": "Muster:"
+  },
+  "Penguin": {
+    "Th": "เพนกวิน",
+    "Es": "Pingüino",
+    "Pt": "Pinguim",
+    "Fr": "Manchot",
+    "It": "Pinguino",
+    "De": "Pinguin"
+  },
+  "Penguin Adjacent Aura": {
+    "Th": "ออร่าที่อยู่ติดกันของเพนกวิน",
+    "Es": "Aura adyacente al pingüino",
+    "Pt": "Aura Adjacente ao Pinguim",
+    "Fr": "Aura adjacente au pingouin",
+    "It": "Aura adiacente del pinguino",
+    "De": "Angrenzende Aura des Pinguins"
+  },
+  "Permanent evolution pattern boost": {
+    "Th": "เพิ่มรูปแบบวิวัฒนาการถาวร",
+    "Es": "Impulso del patrón de evolución permanente.",
+    "Pt": "Aumento do padrão de evolução permanente",
+    "Fr": "Boost du modèle d'évolution permanente",
+    "It": "Potenziamento del modello di evoluzione permanente",
+    "De": "Permanenter Boost des Evolutionsmusters"
+  },
+  "Permanent Upgrades": {
+    "Th": "การอัพเกรดแบบถาวร",
+    "Es": "Actualizaciones permanentes",
+    "Pt": "Atualizações permanentes",
+    "Fr": "Mises à niveau permanentes",
+    "It": "Aggiornamenti permanenti",
+    "De": "Permanente Upgrades"
+  },
+  "Pierce damage 35%": {
+    "Th": "เจาะทะลุความเสียหาย 35%",
+    "Es": "Daño de perforación 35%",
+    "Pt": "Dano perfurante 35%",
+    "Fr": "Dégâts de perçage 35%",
+    "It": "Danno perforante 35%",
+    "De": "Durchdringungsschaden 35 %"
+  },
+  "Piercing Red Knight": {
+    "Th": "อัศวินแดงเจาะ",
+    "Es": "Caballero rojo penetrante",
+    "Pt": "Perfurante Cavaleiro Vermelho",
+    "Fr": "Chevalier Rouge Perçant",
+    "It": "Cavaliere Rosso Perforante",
+    "De": "Durchdringender Roter Ritter"
+  },
+  "Places a gust field on the nearest enemy every 7s.": {
+    "Th": "ปล่อยลมกระโชกใส่ศัตรูที่ใกล้ที่สุดทุกๆ 7 วินาที",
+    "Es": "Coloca un campo de ráfagas sobre el enemigo más cercano cada 7 segundos.",
+    "Pt": "Coloca um campo de rajada no inimigo mais próximo a cada 7s.",
+    "Fr": "Place un champ de rafales sur l'ennemi le plus proche toutes les 7 secondes.",
+    "It": "Posiziona un campo di raffiche sul nemico più vicino ogni 7 s.",
+    "De": "Platziert alle 7 Sekunden ein Böenfeld auf dem nächsten Feind."
+  },
+  "Places a vortex on a distant enemy every 10s.": {
+    "Th": "สร้างกระแสน้ำวนใส่ศัตรูที่อยู่ห่างไกลทุกๆ 10 วินาที",
+    "Es": "Coloca un vórtice sobre un enemigo distante cada 10 segundos.",
+    "Pt": "Coloca um vórtice em um inimigo distante a cada 10s.",
+    "Fr": "Place un vortex sur un ennemi éloigné toutes les 10 secondes.",
+    "It": "Posiziona un vortice su un nemico distante ogni 10 s.",
+    "De": "Platziert alle 10 Sekunden einen Wirbel auf einem entfernten Feind."
+  },
+  "Pool Locked": {
+    "Th": "สระว่ายน้ำถูกล็อค",
+    "Es": "Piscina cerrada",
+    "Pt": "Piscina bloqueada",
+    "Fr": "Piscine verrouillée",
+    "It": "Piscina chiusa a chiave",
+    "De": "Pool gesperrt"
+  },
+  "Pool {0}/{1}": {
+    "Th": "พูล {0}/{1}",
+    "Es": "Piscina {0}/{1}",
+    "Pt": "Piscina {0}/{1}",
+    "Fr": "Piscine {0}/{1}",
+    "It": "Piscina {0}/{1}",
+    "De": "Pool {0}/{1}"
+  },
+  "Precision White Knight": {
+    "Th": "อัศวินขาวที่แม่นยำ",
+    "Es": "Caballero blanco de precisión",
+    "Pt": "Cavaleiro Branco de Precisão",
+    "Fr": "Chevalier blanc de précision",
+    "It": "Cavaliere Bianco di precisione",
+    "De": "Präzisionsweißer Ritter"
+  },
+  "Pull +20%": {
+    "Th": "ดึง +20%",
+    "Es": "Tirar +20%",
+    "Pt": "Puxar +20%",
+    "Fr": "Tirez +20%",
+    "It": "Tira +20%",
+    "De": "Ziehen +20 %"
+  },
+  "Punches enemy positions every 5s.": {
+    "Th": "เจาะตำแหน่งของศัตรูทุกๆ 5 วินาที",
+    "Es": "Golpea posiciones enemigas cada 5 segundos.",
+    "Pt": "Soca posições inimigas a cada 5s.",
+    "Fr": "Frappe les positions ennemies toutes les 5 secondes.",
+    "It": "Colpisce le posizioni nemiche ogni 5 secondi.",
+    "De": "Schlägt alle 5 Sekunden auf feindliche Positionen ein."
+  },
+  "Radius +20%": {
+    "Th": "รัศมี +20%",
+    "Es": "Radio +20%",
+    "Pt": "Raio +20%",
+    "Fr": "Rayon +20%",
+    "It": "Raggio +20%",
+    "De": "Radius +20 %"
+  },
+  "Radius 1.6 → 1.8": {
+    "Th": "รัศมี 1.6 → 1.8",
+    "Es": "Radio 1,6 → 1,8",
+    "Pt": "Raio 1,6 → 1,8",
+    "Fr": "Rayon 1,6 → 1,8",
+    "It": "Raggio 1,6 → 1,8",
+    "De": "Radius 1,6 → 1,8"
+  },
+  "Range": {
+    "Th": "พิสัย",
+    "Es": "Rango",
+    "Pt": "Faixa",
+    "Fr": "Gamme",
+    "It": "Allineare",
+    "De": "Reichweite"
+  },
+  "Range +1.0, ATK +12%": {
+    "Th": "ระยะ +1.0, ATK +12%",
+    "Es": "Alcance +1.0, ATQ +12%",
+    "Pt": "Alcance +1,0, ATQ +12%",
+    "Fr": "Portée +1,0, ATT +12 %",
+    "It": "Portata +1,0, ATT +12%",
+    "De": "Reichweite +1,0, ATK +12 %"
+  },
+  "Range +1.5": {
+    "Th": "ระยะ +1.5",
+    "Es": "Rango +1,5",
+    "Pt": "Alcance +1,5",
+    "Fr": "Portée +1,5",
+    "It": "Portata +1,5",
+    "De": "Reichweite +1,5"
+  },
+  "Range {0:0.#} → {1:0.#}": {
+    "Th": "ช่วง {0:0.#} → {1:0.#}",
+    "Es": "Rango {0:0.#} → {1:0.#}",
+    "Pt": "Faixa {0:0.#} → {1:0.#}",
+    "Fr": "Plage {0:0.#} → {1:0.#}",
+    "It": "Intervallo {0:0.#} → {1:0.#}",
+    "De": "Bereich {0:0.#} → {1:0.#}"
+  },
+  "Range+{0:0.#}": {
+    "Th": "ระยะ+{0:0.#}",
+    "Es": "Rango+{0:0.#}",
+    "Pt": "Faixa+{0:0.#}",
+    "Fr": "Plage+{0:0.#}",
+    "It": "Intervallo+{0:0.#}",
+    "De": "Bereich+{0:0.#}"
+  },
+  "Range: {0:0.#}": {
+    "Th": "ช่วง: {0:0.#}",
+    "Es": "Rango: {0:0.#}",
+    "Pt": "Faixa: {0:0.#}",
+    "Fr": "Plage : {0:0.#}",
+    "It": "Intervallo: {0:0.#}",
+    "De": "Bereich: {0:0.#}"
+  },
+  "Range: {0}": {
+    "Th": "ช่วง: {0}",
+    "Es": "Rango: {0}",
+    "Pt": "Faixa: {0}",
+    "Fr": "Plage : {0}",
+    "It": "Intervallo: {0}",
+    "De": "Bereich: {0}"
+  },
+  "Ranged": {
+    "Th": "ระยะไกล",
+    "Es": "a distancia",
+    "Pt": "À distância",
+    "Fr": "À distance",
+    "It": "A distanza",
+    "De": "Fernkampf"
+  },
+  "Ranged Party": {
+    "Th": "ปาร์ตี้ระยะไกล",
+    "Es": "Partido a distancia",
+    "Pt": "Grupo de longo alcance",
+    "Fr": "Fête à distance",
+    "It": "Festa a distanza",
+    "De": "Fernkampfgruppe"
+  },
+  "Ranged specials (2·6) plus tank front. Types 6·7 added from R11.": {
+    "Th": "ระยะพิเศษ (2·6) พร้อมรถถังด้านหน้า เพิ่มประเภท 6·7 จาก R11",
+    "Es": "Especiales a distancia (2·6) más frente de tanque. Tipos 6·7 añadidos a partir de R11.",
+    "Pt": "Especiais de longo alcance (2·6) mais tanque frontal. Tipos 6·7 adicionados do R11.",
+    "Fr": "Offres spéciales à distance (2·6) plus façade de char. Types 6·7 ajoutés à partir de R11.",
+    "It": "Speciali a distanza (2·6) più parte anteriore del serbatoio. Tipi 6·7 aggiunti da R11.",
+    "De": "Fernkampf-Specials (2·6) plus Panzerfront. Typen 6·7 ab R11 hinzugefügt."
+  },
+  "Ravenous Ghoul": {
+    "Th": "ปอบหิวโหย",
+    "Es": "Ghoul voraz",
+    "Pt": "Carniçal Voraz",
+    "Fr": "Goule vorace",
+    "It": "Ghoul famelico",
+    "De": "Gefräßiger Ghul"
+  },
+  "Reach 3-star evolution": {
+    "Th": "เข้าถึงวิวัฒนาการระดับ 3 ดาว",
+    "Es": "Alcanza la evolución de 3 estrellas",
+    "Pt": "Alcance a evolução de 3 estrelas",
+    "Fr": "Atteignez l'évolution 3 étoiles",
+    "It": "Raggiungi l'evoluzione a 3 stelle",
+    "De": "Erreiche die 3-Sterne-Entwicklung"
+  },
+  "Reach 5-star evolution": {
+    "Th": "เข้าถึงวิวัฒนาการระดับ 5 ดาว",
+    "Es": "Alcanza la evolución de 5 estrellas",
+    "Pt": "Alcance a evolução de 5 estrelas",
+    "Fr": "Atteignez une évolution 5 étoiles",
+    "It": "Raggiungi l'evoluzione a 5 stelle",
+    "De": "Erreiche die 5-Sterne-Entwicklung"
+  },
+  "Recorded · upgrades locked": {
+    "Th": "บันทึกแล้ว · การอัพเกรดถูกล็อค",
+    "Es": "Grabado · actualizaciones bloqueadas",
+    "Pt": "Gravado · atualizações bloqueadas",
+    "Fr": "Enregistré · mises à niveau verrouillées",
+    "It": "Registrato · aggiornamenti bloccati",
+    "De": "Aufgezeichnet · Upgrades gesperrt"
+  },
+  "Red Goblin": {
+    "Th": "เรดก็อบลิน",
+    "Es": "duende rojo",
+    "Pt": "Duende Vermelho",
+    "Fr": "Gobelin rouge",
+    "It": "Folletto Rosso",
+    "De": "Roter Kobold"
+  },
+  "Reflect lifetime +25%": {
+    "Th": "สะท้อนอายุการใช้งาน +25%",
+    "Es": "Refleja la vida útil +25%",
+    "Pt": "Refletir vida útil +25%",
+    "Fr": "Refléter la durée de vie +25 %",
+    "It": "Durata riflettente +25%",
+    "De": "Lebenszeit reflektieren +25 %"
+  },
+  "Registered Pool": {
+    "Th": "พูลที่ลงทะเบียน",
+    "Es": "Piscina registrada",
+    "Pt": "Pool registrado",
+    "Fr": "Piscine enregistrée",
+    "It": "Piscina registrata",
+    "De": "Registrierter Pool"
+  },
+  "Reroll Cards (1x)": {
+    "Th": "การ์ดสุ่ม (1x)",
+    "Es": "Retirar cartas (1x)",
+    "Pt": "Rerolar cartas (1x)",
+    "Fr": "Relancer les cartes (1x)",
+    "It": "Rilancia le carte (1x)",
+    "De": "Karten neu würfeln (1x)"
+  },
+  "Right battlefield barrier (purple pad)": {
+    "Th": "กำแพงกั้นสนามรบด้านขวา (แผ่นสีม่วง)",
+    "Es": "Barrera derecha del campo de batalla (almohadilla morada)",
+    "Pt": "Barreira direita do campo de batalha (bloco roxo)",
+    "Fr": "Barrière de champ de bataille droite (pad violet)",
+    "It": "Barriera destra del campo di battaglia (pad viola)",
+    "De": "Rechte Schlachtfeldbarriere (lila Pad)"
+  },
+  "Right column · attack speed +10%": {
+    "Th": "คอลัมน์ขวา · ความเร็วโจมตี +10%",
+    "Es": "Columna derecha · velocidad de ataque +10%",
+    "Pt": "Coluna direita · velocidade de ataque +10%",
+    "Fr": "Colonne de droite · vitesse d'attaque +10%",
+    "It": "Colonna destra · velocità d'attacco +10%",
+    "De": "Rechte Spalte · Angriffsgeschwindigkeit +10 %"
+  },
+  "Rogue": {
+    "Th": "คนโกง",
+    "Es": "Pícaro",
+    "Pt": "Por conta própria",
+    "Fr": "Voyou",
+    "It": "Briccone",
+    "De": "Schurke"
+  },
+  "Round ({0}×2)": {
+    "Th": "รอบ ({0}×2)",
+    "Es": "Redondo ({0}×2)",
+    "Pt": "Rodada ({0}×2)",
+    "Fr": "Rond ({0}×2)",
+    "It": "Rotondo ({0}×2)",
+    "De": "Rund ({0}×2)"
+  },
+  "Round Reached": {
+    "Th": "ถึงรอบแล้ว",
+    "Es": "Ronda alcanzada",
+    "Pt": "Rodada alcançada",
+    "Fr": "Tour atteint",
+    "It": "Giro raggiunto",
+    "De": "Runde erreicht"
+  },
+  "Round {0}  <color=#FFC94D>{1}</color>": {
+    "Th": "รอบ {0} <color=#FFC94D>{1}</color>",
+    "Es": "Redondo {0} <color=#FFC94D>{1}</color>",
+    "Pt": "Rodada {0} <color=#FFC94D>{1}</color>",
+    "Fr": "Rond {0} <color=#FFC94D>{1}</color>",
+    "It": "Rotondo {0} <color=#FFC94D>{1}</color>",
+    "De": "Rund {0} <color=#FFC94D>{1}</color>"
+  },
+  "Round {0} — Enemy HP ×{1:0.##} (Total ×{2:0.##})": {
+    "Th": "รอบ {0} — HP ของศัตรู ×{1:0.##} (ทั้งหมด ×{2:0.##})",
+    "Es": "Ronda {0} — HP enemigo ×{1:0.##} (Total ×{2:0.##})",
+    "Pt": "Rodada {0} – HP do inimigo ×{1:0.##} (Total ×{2:0.##})",
+    "Fr": "Round {0} — HP ennemi ×{1:0.##} (Total ×{2:0.##})",
+    "It": "Turno {0} — HP del nemico ×{1:0.##} (Totale ×{2:0.##})",
+    "De": "Runde {0} – Gegner-HP ×{1:0.##} (Gesamt ×{2:0.##})"
+  },
+  "R{0} · Total {1:N0}": {
+    "Th": "R{0} · รวม {1:N0}",
+    "Es": "R{0} · Total {1:N0}",
+    "Pt": "R{0} · Total {1:N0}",
+    "Fr": "R{0} · Total {1:N0}",
+    "It": "R{0} · Totale {1:N0}",
+    "De": "R{0} · Gesamt {1:N0}"
+  },
+  "s": {
+    "Th": "ส",
+    "Es": "s",
+    "Pt": "é",
+    "Fr": "s",
+    "It": "S",
+    "De": "S"
+  },
+  "Secondary blast (70%)": {
+    "Th": "การระเบิดครั้งที่สอง (70%)",
+    "Es": "Explosión secundaria (70%)",
+    "Pt": "Explosão secundária (70%)",
+    "Fr": "Explosion secondaire (70%)",
+    "It": "Esplosione secondaria (70%)",
+    "De": "Sekundärexplosion (70 %)"
+  },
+  "Select your first unit.": {
+    "Th": "เลือกหน่วยแรกของคุณ",
+    "Es": "Selecciona tu primera unidad.",
+    "Pt": "Selecione sua primeira unidade.",
+    "Fr": "Sélectionnez votre première unité.",
+    "It": "Seleziona la tua prima unità.",
+    "De": "Wählen Sie Ihre erste Einheit aus."
+  },
+  "Shadow Vortex": {
+    "Th": "เงาวอร์เท็กซ์",
+    "Es": "Vórtice de sombras",
+    "Pt": "Vórtice Sombrio",
+    "Fr": "Vortex d'ombre",
+    "It": "Vortice d'Ombra",
+    "De": "Schattenwirbel"
+  },
+  "Shadowless Rogue": {
+    "Th": "โจรไร้เงา",
+    "Es": "Pícaro sin sombras",
+    "Pt": "Ladino sem sombras",
+    "Fr": "Voleur sans ombre",
+    "It": "Ladro senza ombre",
+    "De": "Schattenloser Schurke"
+  },
+  "Shuriken Barrage": {
+    "Th": "เขื่อนชูริเคน",
+    "Es": "Aluvión de shurikens",
+    "Pt": "Barragem de Shuriken",
+    "Fr": "Barrage de Shurikens",
+    "It": "Sbarramento di Shuriken",
+    "De": "Shuriken-Sperrfeuer"
+  },
+  "Slow 65% · 2.5s": {
+    "Th": "ช้า 65% · 2.5 วินาที",
+    "Es": "Lento 65% · 2,5s",
+    "Pt": "Lento 65% · 2,5s",
+    "Fr": "Lent 65 % · 2,5 s",
+    "It": "Lento 65% · 2,5 s",
+    "De": "Langsam 65 % · 2,5 s"
+  },
+  "Spawns a gold icon every 4s; click to collect gold.": {
+    "Th": "วางไข่ไอคอนสีทองทุกๆ 4 วินาที คลิกเพื่อรวบรวมทองคำ",
+    "Es": "Genera un icono dorado cada 4 segundos; haz clic para recolectar oro.",
+    "Pt": "Gera um ícone dourado a cada 4s; clique para coletar ouro.",
+    "Fr": "Génère une icône dorée toutes les 4 secondes ; cliquez pour collecter de l'or.",
+    "It": "Genera un'icona d'oro ogni 4 secondi; fare clic per raccogliere l'oro.",
+    "De": "Erzeugt alle 4 Sekunden ein Goldsymbol; Klicken Sie, um Gold zu sammeln."
+  },
+  "Specials: {0} + constant minion reinforcements\n{1}": {
+    "Th": "พิเศษ: {0} + กำลังเสริมมินเนี่ยนอย่างต่อเนื่อง\n{1}",
+    "Es": "Especiales: {0} + refuerzos constantes de minions\n{1}",
+    "Pt": "Especiais: {0} + reforços constantes de lacaios\n{1}",
+    "Fr": "Offres spéciales : {0} + renforts de serviteurs constants\n{1}",
+    "It": "Speciali: {0} + rinforzi servitori costanti\n{1}",
+    "De": "Besonderheiten: {0} + ständige Vasallenverstärkung\n{1}"
+  },
+  "Splash 3.0 → 3.5": {
+    "Th": "สแปลช 3.0 → 3.5",
+    "Es": "Salpicadura 3.0 → 3.5",
+    "Pt": "Respingo 3,0 → 3,5",
+    "Fr": "Éclaboussure 3,0 → 3,5",
+    "It": "Spruzzo 3.0 → 3.5",
+    "De": "Splash 3.0 → 3.5"
+  },
+  "Stage-2 vortex (65%)": {
+    "Th": "กระแสน้ำวนขั้นที่ 2 (65%)",
+    "Es": "Vórtice de etapa 2 (65%)",
+    "Pt": "Vórtice de estágio 2 (65%)",
+    "Fr": "Vortex de niveau 2 (65 %)",
+    "It": "Vortice di stadio 2 (65%)",
+    "De": "Wirbel der Stufe 2 (65 %)"
+  },
+  "Star Goblin": {
+    "Th": "สตาร์ก็อบลิน",
+    "Es": "duende estrella",
+    "Pt": "Duende Estelar",
+    "Fr": "Gobelin étoilé",
+    "It": "Stella Goblin",
+    "De": "Sternenkobold"
+  },
+  "Strike radius 1.2 → 1.4": {
+    "Th": "รัศมีการโจมตี 1.2 → 1.4",
+    "Es": "Radio de ataque 1,2 → 1,4",
+    "Pt": "Raio de ataque 1,2 → 1,4",
+    "Fr": "Rayon de frappe 1,2 → 1,4",
+    "It": "Raggio di attacco 1,2 → 1,4",
+    "De": "Schlagradius 1,2 → 1,4"
+  },
+  "Strikes a random enemy location with lightning every 3s.": {
+    "Th": "โจมตีตำแหน่งของศัตรูแบบสุ่มด้วยสายฟ้าทุกๆ 3 วินาที",
+    "Es": "Golpea una ubicación enemiga aleatoria con un rayo cada 3 segundos.",
+    "Pt": "Atinge um local inimigo aleatório com raios a cada 3s.",
+    "Fr": "Frappe un emplacement ennemi aléatoire avec des éclairs toutes les 3 secondes.",
+    "It": "Colpisce una posizione nemica casuale con un fulmine ogni 3 secondi.",
+    "De": "Trifft alle 3 Sekunden einen zufälligen gegnerischen Ort mit einem Blitz."
+  },
+  "Stronger top/bottom tile APS buff": {
+    "Th": "บัฟ APS บน/ล่างที่แข็งแกร่งยิ่งขึ้น",
+    "Es": "Mejora de APS de mosaico superior/inferior más fuerte",
+    "Pt": "Buff de APS do bloco superior/inferior mais forte",
+    "Fr": "Buff APS des tuiles supérieure/inférieure plus fort",
+    "It": "Potenziamento APS delle tessere superiore/inferiore più forte",
+    "De": "Stärkerer APS-Buff der oberen/unteren Kachel"
+  },
+  "Stun 2.5s": {
+    "Th": "สตัน 2.5 วินาที",
+    "Es": "Aturdir 2,5 s",
+    "Pt": "Atordoar 2,5s",
+    "Fr": "Étourdissement 2,5 secondes",
+    "It": "Stordimento 2,5 secondi",
+    "De": "Betäubung 2,5 Sek"
+  },
+  "Stun 3.5s": {
+    "Th": "สตัน 3.5 วินาที",
+    "Es": "Aturdir 3,5 s",
+    "Pt": "Atordoar 3,5s",
+    "Fr": "Étourdir 3,5 secondes",
+    "It": "Stordimento 3,5 secondi",
+    "De": "Betäubung 3,5 Sek"
+  },
+  "Sun: {0}": {
+    "Th": "อาทิตย์: {0}",
+    "Es": "Sol: {0}",
+    "Pt": "Dom: {0}",
+    "Fr": "Soleil : {0}",
+    "It": "Dom: {0}",
+    "De": "So: {0}"
+  },
+  "Survival Time": {
+    "Th": "เวลาเอาชีวิตรอด",
+    "Es": "Tiempo de supervivencia",
+    "Pt": "Tempo de sobrevivência",
+    "Fr": "Temps de survie",
+    "It": "Tempo di sopravvivenza",
+    "De": "Überlebenszeit"
+  },
+  "Suspiciously Perfect Penguin": {
+    "Th": "เพนกวินที่สมบูรณ์แบบอย่างน่าสงสัย",
+    "Es": "Pingüino sospechosamente perfecto",
+    "Pt": "Pinguim Suspeitamente Perfeito",
+    "Fr": "Pingouin suspectement parfait",
+    "It": "Pinguino sospettosamente perfetto",
+    "De": "Verdächtig perfekter Pinguin"
+  },
+  "Swarm": {
+    "Th": "ฝูง",
+    "Es": "Enjambre",
+    "Pt": "Enxame",
+    "Fr": "Essaim",
+    "It": "Sciame",
+    "De": "Schwarm"
+  },
+  "Swarm Party": {
+    "Th": "ปาร์ตี้ฝูง",
+    "Es": "Fiesta del enjambre",
+    "Pt": "Festa do Enxame",
+    "Fr": "Fête d'essaim",
+    "It": "Festa dello Sciame",
+    "De": "Schwarmparty"
+  },
+  "Synergies": {
+    "Th": "การทำงานร่วมกัน",
+    "Es": "Sinergias",
+    "Pt": "Sinergias",
+    "Fr": "Synergies",
+    "It": "Sinergie",
+    "De": "Synergien"
+  },
+  "Synergy": {
+    "Th": "การทำงานร่วมกัน",
+    "Es": "Sinergia",
+    "Pt": "Sinergia",
+    "Fr": "Synergie",
+    "It": "Sinergia",
+    "De": "Synergie"
+  },
+  "Synergy  {0}": {
+    "Th": "การทำงานร่วมกัน {0}",
+    "Es": "Sinergia {0}",
+    "Pt": "Sinergia {0}",
+    "Fr": "Synergie {0}",
+    "It": "Sinergia {0}",
+    "De": "Synergie {0}"
+  },
+  "Synergy count ×2": {
+    "Th": "จำนวนการทำงานร่วมกัน ×2",
+    "Es": "Recuento de sinergias ×2",
+    "Pt": "Contagem de sinergia ×2",
+    "Fr": "Nombre de synergies ×2",
+    "It": "Conteggio delle sinergie x2",
+    "De": "Synergieanzahl ×2"
+  },
+  "Synergy Effects": {
+    "Th": "ผลการทำงานร่วมกัน",
+    "Es": "Efectos de sinergia",
+    "Pt": "Efeitos de Sinergia",
+    "Fr": "Effets de synergie",
+    "It": "Effetti di sinergia",
+    "De": "Synergieeffekte"
+  },
+  "Tank specials in front, ranged in back. Enemy mix varies by phase.": {
+    "Th": "รถถังพิเศษด้านหน้า เรียงกันด้านหลัง การผสมของศัตรูจะแตกต่างกันไปตามระยะ",
+    "Es": "Tanques especiales al frente, alineados atrás. La mezcla de enemigos varía según la fase.",
+    "Pt": "Especiais de tanque na frente e atrás. A mistura de inimigos varia de acordo com a fase.",
+    "Fr": "Chars spéciaux devant, rangés derrière. Le mélange d'ennemis varie selon la phase.",
+    "It": "Speciali carri armati davanti, schierati dietro. Il mix di nemici varia in base alla fase.",
+    "De": "Panzerspezialeinheiten vorne, Fernkampfeinheiten hinten. Die Gegnermischung variiert je nach Phase."
+  },
+  "Tap to acquire": {
+    "Th": "แตะเพื่อรับ",
+    "Es": "Toca para adquirir",
+    "Pt": "Toque para adquirir",
+    "Fr": "Appuyez pour acquérir",
+    "It": "Tocca per acquisire",
+    "De": "Zum Erwerb tippen"
+  },
+  "The full version will bring more units, synergies,\nand powerful enemies.\nStay tuned for future updates!": {
+    "Th": "เวอร์ชันเต็มจะนำยูนิตการทำงานร่วมกัน\nและศัตรูที่แข็งแกร่ง\nคอยติดตามการปรับปรุงในอนาคต!",
+    "Es": "La versión completa traerá más unidades, sinergias,\ny enemigos poderosos.\n¡Estén atentos a futuras actualizaciones!",
+    "Pt": "A versão completa trará mais unidades, sinergias,\ne inimigos poderosos.\nFique ligado para atualizações futuras!",
+    "Fr": "La version complète apportera plus d'unités, de synergies,\net des ennemis puissants.\nRestez à l'écoute des futures mises à jour !",
+    "It": "La versione completa porterà più unità, sinergie,\ne potenti nemici.\nRestate sintonizzati per futuri aggiornamenti!",
+    "De": "Die Vollversion bringt mehr Einheiten, Synergien,\nund mächtige Feinde.\nSeien Sie gespannt auf zukünftige Updates!"
+  },
+  "This unit can no longer be purchased.": {
+    "Th": "ไม่สามารถซื้อหน่วยนี้ได้อีกต่อไป",
+    "Es": "Esta unidad ya no se puede comprar.",
+    "Pt": "Esta unidade não pode mais ser comprada.",
+    "Fr": "Cette unité ne peut plus être achetée.",
+    "It": "Questa unità non può più essere acquistata.",
+    "De": "Dieses Gerät kann nicht mehr gekauft werden."
+  },
+  "This unit can no longer evolve.": {
+    "Th": "หน่วยนี้ไม่สามารถพัฒนาได้อีกต่อไป",
+    "Es": "Esta unidad ya no puede evolucionar.",
+    "Pt": "Esta unidade não pode mais evoluir.",
+    "Fr": "Cette unité ne peut plus évoluer.",
+    "It": "Questa unità non può più evolversi.",
+    "De": "Diese Einheit kann sich nicht mehr weiterentwickeln."
+  },
+  "Throws a fireball at the nearest enemy every 3s; hits deal splash damage.": {
+    "Th": "ขว้างลูกไฟใส่ศัตรูที่ใกล้ที่สุดทุกๆ 3 วินาที การโจมตีจะสร้างความเสียหายแบบกระจาย",
+    "Es": "Lanza una bola de fuego al enemigo más cercano cada 3 segundos; Los golpes causan daño por salpicadura.",
+    "Pt": "Lança uma bola de fogo no inimigo mais próximo a cada 3s; golpes causam dano inicial.",
+    "Fr": "Lance une boule de feu sur l'ennemi le plus proche toutes les 3 secondes ; les coups infligent des dégâts de zone.",
+    "It": "Lancia una palla di fuoco contro il nemico più vicino ogni 3 secondi; i colpi infliggono danni da schizzi.",
+    "De": "Wirft alle 3 Sekunden einen Feuerball auf den nächsten Feind. Treffer verursachen Flächenschaden."
+  },
+  "Throws a judgment lance at the nearest enemy every 5s.": {
+    "Th": "ขว้างหอกพิพากษาใส่ศัตรูที่ใกล้ที่สุดทุกๆ 5 วินาที",
+    "Es": "Lanza una lanza de juicio al enemigo más cercano cada 5 s.",
+    "Pt": "Lança uma lança de julgamento no inimigo mais próximo a cada 5s.",
+    "Fr": "Lance une lance de jugement sur l'ennemi le plus proche toutes les 5 secondes.",
+    "It": "Lancia una lancia del giudizio contro il nemico più vicino ogni 5 s.",
+    "De": "Wirft alle 5 Sekunden eine Urteilslanze auf den nächsten Feind."
+  },
+  "Throws a piercing shuriken every 3s.": {
+    "Th": "ขว้างดาวกระจายเจาะทะลุทุกๆ 3 วินาที",
+    "Es": "Lanza un shuriken penetrante cada 3 segundos.",
+    "Pt": "Lança uma shuriken perfurante a cada 3s.",
+    "Fr": "Lance un shuriken perçant toutes les 3 secondes.",
+    "It": "Lancia uno shuriken perforante ogni 3 secondi.",
+    "De": "Wirft alle 3 Sek. einen durchdringenden Shuriken."
+  },
+  "Throws a roaming stone every 10s.": {
+    "Th": "ขว้างหินโรมมิ่งทุกๆ 10 วินาที",
+    "Es": "Lanza una piedra errante cada 10s.",
+    "Pt": "Atira uma pedra errante a cada 10s.",
+    "Fr": "Lance une pierre itinérante toutes les 10 secondes.",
+    "It": "Lancia una pietra vagante ogni 10 secondi.",
+    "De": "Wirft alle 10 Sekunden einen wandernden Stein."
+  },
+  "Throws rocks at the nearest enemy once every 2s.": {
+    "Th": "ขว้างก้อนหินใส่ศัตรูที่ใกล้ที่สุดทุกๆ 2 วินาที",
+    "Es": "Lanza piedras al enemigo más cercano una vez cada 2 s.",
+    "Pt": "Atira pedras no inimigo mais próximo uma vez a cada 2s.",
+    "Fr": "Lance des pierres sur l'ennemi le plus proche toutes les 2 secondes.",
+    "It": "Lancia rocce al nemico più vicino una volta ogni 2 secondi.",
+    "De": "Wirft alle 2 Sekunden Steine ​​auf den nächsten Feind."
+  },
+  "Throws shuriken in rapid succession {0}.": {
+    "Th": "ขว้างดาวกระจายอย่างต่อเนื่องอย่างรวดเร็ว {0}",
+    "Es": "Lanza shuriken en rápida sucesión {0}.",
+    "Pt": "Lança shuriken em rápida sucessão {0}.",
+    "Fr": "Lance des shuriken en succession rapide {0}.",
+    "It": "Lancia shuriken in rapida successione {0}.",
+    "De": "Wirft Shuriken in schneller Folge {0}."
+  },
+  "Thunder Sniper": {
+    "Th": "ธันเดอร์สไนเปอร์",
+    "Es": "Francotirador del trueno",
+    "Pt": "Atirador de trovão",
+    "Fr": "Tireur d'élite tonnerre",
+    "It": "Cecchino del tuono",
+    "De": "Donnerscharfschütze"
+  },
+  "Tick +15% · interval −8%": {
+    "Th": "ติ๊ก +15% · ช่วงเวลา −8%",
+    "Es": "Marca +15% · intervalo −8%",
+    "Pt": "Assinale +15% · intervalo −8%",
+    "Fr": "Coche +15% · intervalle −8%",
+    "It": "Ticchettio +15% · intervallo −8%",
+    "De": "Tick ​​+15 % · Intervall −8 %"
+  },
+  "Tier {0}/{1}": {
+    "Th": "ระดับ {0}/{1}",
+    "Es": "Nivel {0}/{1}",
+    "Pt": "Camada {0}/{1}",
+    "Fr": "Niveau {0}/{1}",
+    "It": "Livello {0}/{1}",
+    "De": "Stufe {0}/{1}"
+  },
+  "Title Screen": {
+    "Th": "หน้าจอชื่อเรื่อง",
+    "Es": "Pantalla de título",
+    "Pt": "Tela de título",
+    "Fr": "Écran titre",
+    "It": "Schermata del titolo",
+    "De": "Titelbildschirm"
+  },
+  "Top 5": {
+    "Th": "5 อันดับแรก",
+    "Es": "5 mejores",
+    "Pt": "5 principais",
+    "Fr": "Top 5",
+    "It": "Primi 5",
+    "De": "Top 5"
+  },
+  "Top row (row 1)": {
+    "Th": "แถวบนสุด (แถวที่ 1)",
+    "Es": "Fila superior (fila 1)",
+    "Pt": "Linha superior (linha 1)",
+    "Fr": "Rangée du haut (rangée 1)",
+    "It": "Riga superiore (riga 1)",
+    "De": "Obere Reihe (Reihe 1)"
+  },
+  "Top row · attack +10%": {
+    "Th": "แถวบนสุด · โจมตี +10%",
+    "Es": "Fila superior · ataque +10%",
+    "Pt": "Linha superior · ataque +10%",
+    "Fr": "Rangée supérieure · attaque +10%",
+    "It": "Riga superiore · attacco +10%",
+    "De": "Obere Reihe · Angriff +10 %"
+  },
+  "Top Volley": {
+    "Th": "ท็อปวอลเล่ย์",
+    "Es": "Volea superior",
+    "Pt": "Voleio Superior",
+    "Fr": "Volée supérieure",
+    "It": "Il massimo della pallavolo",
+    "De": "Top Volley"
+  },
+  "Traits": {
+    "Th": "ลักษณะ",
+    "Es": "Rasgos",
+    "Pt": "Características",
+    "Fr": "Caractéristiques",
+    "It": "Tratti",
+    "De": "Eigenschaften"
+  },
+  "Triggers a special attack {0}.": {
+    "Th": "ก่อให้เกิดการโจมตีพิเศษ {0}",
+    "Es": "Activa un ataque especial {0}.",
+    "Pt": "Aciona um ataque especial {0}.",
+    "Fr": "Déclenche une attaque spéciale {0}.",
+    "It": "Attiva un attacco speciale {0}.",
+    "De": "Löst einen Spezialangriff {0} aus."
+  },
+  "Triggers execution on {1} weak enemies {0}.": {
+    "Th": "ทริกเกอร์การดำเนินการกับ {1} ศัตรูที่อ่อนแอ {0}",
+    "Es": "Activa la ejecución en {1} enemigos débiles {0}.",
+    "Pt": "Aciona a execução em {1} inimigos fracos {0}.",
+    "Fr": "Déclenche l'exécution sur {1} ennemis faibles {0}.",
+    "It": "Attiva l'esecuzione su {1} nemici deboli {0}.",
+    "De": "Löst die Hinrichtung bei {1} schwachen Feinden {0} aus."
+  },
+  "Triple lightning · interval −8%": {
+    "Th": "สายฟ้าสามเท่า · ช่วง −8%",
+    "Es": "Rayo triple · intervalo −8%",
+    "Pt": "Relâmpago triplo · intervalo −8%",
+    "Fr": "Triple éclair · intervalle −8%",
+    "It": "Triplo fulmine · intervallo −8%",
+    "De": "Dreifacher Blitz · Intervall −8 %"
+  },
+  "Twin lance (2nd 70%) · 0.5s stun": {
+    "Th": "หอกคู่ (70%) · สตัน 0.5 วินาที",
+    "Es": "Lanza gemela (2º 70%) · 0,5 s de aturdimiento",
+    "Pt": "Lança dupla (2º 70%) · 0,5s de atordoamento",
+    "Fr": "Lance double (2e 70 %) · 0,5 s par étourdissement",
+    "It": "Lancia doppia (2a 70%) · Stordimento di 0,5 secondi",
+    "De": "Zwillingslanze (2. 70 %) · 0,5 Sek. Betäubung"
+  },
+  "Twin roots (2nd 70%)": {
+    "Th": "รากคู่ (ที่ 2 70%)",
+    "Es": "Raíces gemelas (2º 70%)",
+    "Pt": "Raízes gêmeas (2º 70%)",
+    "Fr": "Racines jumelles (2ème 70%)",
+    "It": "Radici gemelle (2° 70%)",
+    "De": "Zwillingswurzeln (2. 70 %)"
+  },
+  "Twin shot (2nd 70%) · interval −6%": {
+    "Th": "ยิงคู่ (ครั้งที่ 2 70%) · ช่วงเวลา −6%",
+    "Es": "Tiro doble (2.º 70%) · intervalo −6%",
+    "Pt": "Tiro duplo (2º 70%) · intervalo −6%",
+    "Fr": "Double tir (2ème 70%) · intervalle −6%",
+    "It": "Doppio tiro (2° 70%) · intervallo −6%",
+    "De": "Zwillingsschuss (2. 70 %) · Intervall −6 %"
+  },
+  "Twin shot (2nd 75%)": {
+    "Th": "ทวินช็อต (ที่ 2 75%)",
+    "Es": "Tiro doble (segundo 75%)",
+    "Pt": "Tiro duplo (2º 75%)",
+    "Fr": "Double coup (2ème 75%)",
+    "It": "Doppio tiro (2° 75%)",
+    "De": "Zwillingsschuss (2. 75 %)"
+  },
+  "Unable to load party info.": {
+    "Th": "ไม่สามารถโหลดข้อมูลปาร์ตี้ได้",
+    "Es": "No se puede cargar la información de la fiesta.",
+    "Pt": "Não foi possível carregar as informações do grupo.",
+    "Fr": "Impossible de charger les informations sur le groupe.",
+    "It": "Impossibile caricare le informazioni sul gruppo.",
+    "De": "Die Partyinformationen können nicht geladen werden."
+  },
+  "Unit Awakening": {
+    "Th": "การตื่นขึ้นของหน่วย",
+    "Es": "Despertar de la unidad",
+    "Pt": "Despertar da Unidade",
+    "Fr": "Éveil d'unité",
+    "It": "Risveglio dell'Unità",
+    "De": "Erwachen der Einheit"
+  },
+  "Unit Effect": {
+    "Th": "ผลกระทบของหน่วย",
+    "Es": "Efecto unitario",
+    "Pt": "Efeito de Unidade",
+    "Fr": "Effet d'unité",
+    "It": "Effetto dell'unità",
+    "De": "Einheiteneffekt"
+  },
+  "Unit Info": {
+    "Th": "ข้อมูลหน่วย",
+    "Es": "Información de la unidad",
+    "Pt": "Informações da unidade",
+    "Fr": "Informations sur l'unité",
+    "It": "Informazioni sull'unità",
+    "De": "Einheiteninfo"
+  },
+  "Unit Roster": {
+    "Th": "บัญชีรายชื่อหน่วย",
+    "Es": "Lista de unidades",
+    "Pt": "Lista da Unidade",
+    "Fr": "Liste des unités",
+    "It": "Elenco delle unità",
+    "De": "Einheitenliste"
+  },
+  "Unit {0}": {
+    "Th": "หน่วย {0}",
+    "Es": "Unidad {0}",
+    "Pt": "Unidade {0}",
+    "Fr": "Unité {0}",
+    "It": "Unità {0}",
+    "De": "Einheit {0}"
+  },
+  "Unknown Buff": {
+    "Th": "บัฟที่ไม่รู้จัก",
+    "Es": "Mejora desconocida",
+    "Pt": "Buff desconhecido",
+    "Fr": "Buff inconnu",
+    "It": "Buff sconosciuto",
+    "De": "Unbekannter Buff"
+  },
+  "Unknown Party": {
+    "Th": "พรรคที่ไม่รู้จัก",
+    "Es": "Parte desconocida",
+    "Pt": "Parte Desconhecida",
+    "Fr": "Fête inconnue",
+    "It": "Parte sconosciuta",
+    "De": "Unbekannte Partei"
+  },
+  "Unleashes a calamity pulse nearby {0}.": {
+    "Th": "ปล่อยชีพจรแห่งความหายนะที่อยู่ใกล้เคียง {0}",
+    "Es": "Desata un pulso de calamidad cerca de {0}.",
+    "Pt": "Libera um pulso de calamidade próximo a {0}.",
+    "Fr": "Déclenche une impulsion de calamité à proximité de {0}.",
+    "It": "Scatena un impulso calamitoso nelle vicinanze {0}.",
+    "De": "Entfesselt einen Katastrophenimpuls in der Nähe von {0}."
+  },
+  "Unlock Awakening {0}": {
+    "Th": "ปลดล็อคการตื่นขึ้น {0}",
+    "Es": "Desbloquear Despertar {0}",
+    "Pt": "Desbloquear o Despertar {0}",
+    "Fr": "Débloquez l'éveil {0}",
+    "It": "Sblocca Risveglio {0}",
+    "De": "Schalte Erwachen frei {0}"
+  },
+  "Unlock upgrades first": {
+    "Th": "ปลดล็อคการอัพเกรดก่อน",
+    "Es": "Desbloquea las actualizaciones primero",
+    "Pt": "Desbloqueie as atualizações primeiro",
+    "Fr": "Débloquez d'abord les mises à niveau",
+    "It": "Sblocca prima gli aggiornamenti",
+    "De": "Schalten Sie zuerst Upgrades frei"
+  },
+  "Upgrade": {
+    "Th": "อัพเกรด",
+    "Es": "Mejora",
+    "Pt": "Atualizar",
+    "Fr": "Mise à niveau",
+    "It": "Aggiornamento",
+    "De": "Upgrade"
+  },
+  "Upgrades": {
+    "Th": "การอัพเกรด",
+    "Es": "Actualizaciones",
+    "Pt": "Atualizações",
+    "Fr": "Mises à niveau",
+    "It": "Aggiornamenti",
+    "De": "Upgrades"
+  },
+  "Vertical width +20%": {
+    "Th": "ความกว้างแนวตั้ง +20%",
+    "Es": "Ancho vertical +20%",
+    "Pt": "Largura vertical +20%",
+    "Fr": "Largeur verticale +20%",
+    "It": "Larghezza verticale +20%",
+    "De": "Vertikale Breite +20 %"
+  },
+  "Vine Lash": {
+    "Th": "เถาขนตา",
+    "Es": "Latigazo de vid",
+    "Pt": "Chicote de videira",
+    "Fr": "Cils de vigne",
+    "It": "Ciglia di vite",
+    "De": "Weinpeitsche"
+  },
+  "Warden": {
+    "Th": "ผู้คุม",
+    "Es": "Guardián",
+    "Pt": "Diretor",
+    "Fr": "Directeur",
+    "It": "Guardiano",
+    "De": "Aufseher"
+  },
+  "Width +25%": {
+    "Th": "ความกว้าง +25%",
+    "Es": "Ancho +25%",
+    "Pt": "Largura +25%",
+    "Fr": "Largeur +25%",
+    "It": "Larghezza +25%",
+    "De": "Breite +25 %"
+  },
+  "Wind": {
+    "Th": "ลม",
+    "Es": "Viento",
+    "Pt": "Vento",
+    "Fr": "Vent",
+    "It": "Vento",
+    "De": "Wind"
+  },
+  "You cleared all {0} rounds!\nThank you for defending the wall to the end.": {
+    "Th": "คุณเคลียร์ {0} รอบทั้งหมดแล้ว!\nขอบคุณที่ปกป้องกำแพงจนถึงที่สุด",
+    "Es": "¡Has superado todas las rondas {0}!\nGracias por defender el muro hasta el final.",
+    "Pt": "Você completou todas as {0} rodadas!\nObrigado por defender o muro até o fim.",
+    "Fr": "Vous avez terminé tous les tours {0} !\nMerci d'avoir défendu le mur jusqu'au bout.",
+    "It": "Hai completato tutti i {0} round!\nGrazie per aver difeso il muro fino alla fine.",
+    "De": "Du hast alle {0} Runden abgeschlossen!\nVielen Dank, dass Sie die Mauer bis zum Ende verteidigt haben."
+  },
+  "{0:0}%": {
+    "Th": "{0:0}%",
+    "Es": "{0:0}%",
+    "Pt": "{0:0}%",
+    "Fr": "{0:0}%",
+    "It": "{0:0}%",
+    "De": "{0:0}%"
+  },
+  "{0} active": {
+    "Th": "{0} ใช้งานอยู่",
+    "Es": "{0} activo",
+    "Pt": "{0} ativo",
+    "Fr": "{0} actif",
+    "It": "{0} attivo",
+    "De": "{0} aktiv"
+  },
+  "{0} medals": {
+    "Th": "{0} เหรียญรางวัล",
+    "Es": "{0} medallas",
+    "Pt": "{0} medalhas",
+    "Fr": "{0} médailles",
+    "It": "{0} medaglie",
+    "De": "{0} Medaillen"
+  },
+  "{0} penguin(s) · {1} adjacent aura tile(s)": {
+    "Th": "{0} เพนกวิน · {1} แผ่นออร่าที่อยู่ติดกัน",
+    "Es": "{0} pingüino(s) · {1} mosaico(s) de aura adyacentes",
+    "Pt": "{0} pinguim(s) · {1} ladrilho(s) de aura adjacente(s)",
+    "Fr": "{0} pingouin(s) · {1} tuile(s) d'aura adjacente(s)",
+    "It": "{0} pinguino/i · {1} tessera/e aura adiacente/e",
+    "De": "{0} Pinguin(e) · {1} angrenzende Auraplättchen"
+  },
+  "{0} units": {
+    "Th": "{0} หน่วย",
+    "Es": "{0} unidades",
+    "Pt": "{0} unidades",
+    "Fr": "{0} unités",
+    "It": "{0} unità",
+    "De": "{0} Einheiten"
+  },
+  "{0} | APS {1:0.0}s | Evo {2} | ATK {3}": {
+    "Th": "{0} | APS {1:0.0}s | อีโว {2} | พลังโจมตี {3}",
+    "Es": "{0} | APS {1:0.0}s | Evo {2} | ATQ {3}",
+    "Pt": "{0} | APS{1:0.0}s | Evo{2} | ATQ {3}",
+    "Fr": "{0} | APS {1:0.0}s | Évo {2} | ATQ {3}",
+    "It": "{0} | APS {1:0.0}s | Evo {2} | ATT {3}",
+    "De": "{0} | APS {1:0.0}s | Evo {2} | ATK {3}"
+  },
+  "{0} — Barrier Pad": {
+    "Th": "{0} — แผ่นกั้น",
+    "Es": "{0} — Almohadilla de barrera",
+    "Pt": "{0} — Almofada de Barreira",
+    "Fr": "{0} — Barrière",
+    "It": "{0} — Barriera protettiva",
+    "De": "{0} – Barriere-Pad"
+  },
+  "{0} — Left/Right Aura": {
+    "Th": "{0} — ออร่าซ้าย/ขวา",
+    "Es": "{0} — Aura izquierda/derecha",
+    "Pt": "{0} – Aura Esquerda/Direita",
+    "Fr": "{0} — Aura gauche/droite",
+    "It": "{0} – Aura sinistra/destra",
+    "De": "{0} – Linke/rechte Aura"
+  },
+  "{0} — Top/Bottom Aura": {
+    "Th": "{0} — ออร่าบน/ล่าง",
+    "Es": "{0} — Aura superior/inferior",
+    "Pt": "{0} – Aura Superior/Inferior",
+    "Fr": "{0} — Aura supérieure/inférieure",
+    "It": "{0} — Aura superiore/inferiore",
+    "De": "{0} – Aura oben/unten"
+  },
+  "{0}★  {1}": {
+    "Th": "{0}★ {1}",
+    "Es": "{0}★ {1}",
+    "Pt": "{0}★ {1}",
+    "Fr": "{0}★ {1}",
+    "It": "{0}★ {1}",
+    "De": "{0}★ {1}"
+  },
+  "① Buy <color=#FFC94D>1 unit</color> in the shop  →  ② Deploy on the <color=#FFC94D>board</color>  →  ③ Press <color=#FFC94D>Start Round 1</color> or wait for countdown": {
+    "Th": "1. ซื้อ <color=#FFC94D>1 หน่วย</color> ในร้านค้า → 2. ใช้งานบน <color=#FFC94D>board</color> → 3. กด <color=#FFC94D>เริ่มรอบ 1</color> หรือรอการนับถอยหลัง",
+    "Es": "① Compre <color=#FFC94D>1 unidad</color> en la tienda → ② Implemente en el tablero <color=#FFC94D></color> → ③ Presione <color=#FFC94D>Iniciar ronda 1</color> o espere la cuenta regresiva",
+    "Pt": "① Compre <color=#FFC94D>1 unidade</color> na loja → ② Implante no <color=#FFC94D>board</color> → ③ Pressione <color=#FFC94D>Iniciar Rodada 1</color> ou aguarde a contagem regressiva",
+    "Fr": "① Achetez <color=#FFC94D>1 unité </color> dans la boutique → ② Déployez sur le <color=#FFC94D>board</color> → ③ Appuyez sur <color=#FFC94D>Start Round 1</color> ou attendez le compte à rebours",
+    "It": "① Acquista <color=#FFC94D>1 unità</color> nel negozio → ② Distribuisci sul <color=#FFC94D>board</color> → ③ Premi <color=#FFC94D>Inizia il round 1</color> o attendi il conto alla rovescia",
+    "De": "① Kaufen Sie <color=#FFC94D>1 Einheit</color> im Shop → ② Bereitstellen auf dem <color=#FFC94D>Board</color> → ③ Drücken Sie <color=#FFC94D>Start Runde 1</color> oder warten Sie auf den Countdown"
+  },
+  "★ Favorites": {
+    "Th": "★รายการโปรด",
+    "Es": "★ Favoritos",
+    "Pt": "★ Favoritos",
+    "Fr": "★ Favoris",
+    "It": "★ Preferiti",
+    "De": "★ Favoriten"
+  },
+  "✓ Unit purchased  →  ② Deploy freely on the <color=#FFC94D>board</color>  →  ③ Press <color=#FFC94D>Start Round 1</color> or wait for countdown": {
+    "Th": "✓ หน่วยที่ซื้อ → 2 ใช้งานได้อย่างอิสระบน <color=#FFC94D>board</color> → 3 กด <color=#FFC94D>เริ่มรอบ 1</color> หรือรอการนับถอยหลัง",
+    "Es": "✓ Unidad comprada → ② Implementar libremente en el <color=#FFC94D>board</color> → ③ Presione <color=#FFC94D>Iniciar ronda 1</color> o espere la cuenta regresiva",
+    "Pt": "✓ Unidade comprada → ② Implante livremente no <color=#FFC94D>board</color> → ③ Pressione <color=#FFC94D>Iniciar Rodada 1</color> ou aguarde a contagem regressiva",
+    "Fr": "✓ Unité achetée → ② Déployez-la librement sur le <color=#FFC94D>board</color> → ③ Appuyez sur <color=#FFC94D>Start Round 1</color> ou attendez le compte à rebours",
+    "It": "✓ Unità acquistata → ② Schiera liberamente sul <color=#FFC94D>tabellone</color> → ③ Premi <color=#FFC94D>Avvia round 1</color> o attendi il conto alla rovescia",
+    "De": "✓ Einheit gekauft → ② Frei auf dem <color=#FFC94D>Board</color> bereitstellen → ③ Drücken Sie <color=#FFC94D>Start Round 1</color> oder warten Sie auf den Countdown"
+  }
+}

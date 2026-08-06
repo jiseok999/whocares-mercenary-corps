@@ -1,0 +1,439 @@
+fileFormatVersion: 2
+guid: 963bef7cc68d0a640ac19093a5eb7277
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1599446662203328538
+    second: Necromancer_death-export_0
+  - first:
+      213: -160105197177961188
+    second: Necromancer_death-export_1
+  - first:
+      213: -8243866840537216383
+    second: Necromancer_death-export_2
+  - first:
+      213: -20791727385030949
+    second: Necromancer_death-export_3
+  - first:
+      213: -4085137540183316665
+    second: Necromancer_death-export_4
+  - first:
+      213: 4902484146839824243
+    second: Necromancer_death-export_5
+  - first:
+      213: -5224359035823657718
+    second: Necromancer_death-export_6
+  - first:
+      213: -5879720802125374316
+    second: Necromancer_death-export_7
+  - first:
+      213: -4002743480531965840
+    second: Necromancer_death-export_8
+  - first:
+      213: -2191060565637461415
+    second: Necromancer_death-export_9
+  - first:
+      213: -3572669715404277656
+    second: Necromancer_death-export_10
+  - first:
+      213: 1505574743254705933
+    second: Necromancer_death-export_11
+  - first:
+      213: -4820997986712706857
+    second: Necromancer_death-export_12
+  - first:
+      213: 7082449244097399366
+    second: Necromancer_death-export_13
+  - first:
+      213: -1286355915815138199
+    second: Necromancer_death-export_14
+  - first:
+      213: -1730591005879555034
+    second: Necromancer_death-export_15
+  - first:
+      213: 2506184828863351769
+    second: Necromancer_death-export_16
+  - first:
+      213: -5087200317392130421
+    second: Necromancer_death-export_17
+  - first:
+      213: 4315015920840641736
+    second: Necromancer_death-export_18
+  - first:
+      213: -507147185742167734
+    second: Necromancer_death-export_19
+  - first:
+      213: -7026751900845442633
+    second: Necromancer_death-export_20
+  - first:
+      213: 8211154174854920233
+    second: Necromancer_death-export_21
+  - first:
+      213: -5445975837622839684
+    second: Necromancer_death-export_22
+  - first:
+      213: -6091784406328548782
+    second: Necromancer_death-export_23
+  - first:
+      213: -8987870706618891336
+    second: Necromancer_death-export_24
+  - first:
+      213: -5926464973230006
+    second: Necromancer_death-export_25
+  - first:
+      213: -8015042494837059143
+    second: Necromancer_death-export_26
+  - first:
+      213: 4636500011035419947
+    second: Necromancer_death-export_27
+  - first:
+      213: 5022513526346559146
+    second: Necromancer_death-export_28
+  - first:
+      213: -2821218448556096697
+    second: Necromancer_death-export_29
+  - first:
+      213: -4600755288927742075
+    second: Necromancer_death-export_30
+  - first:
+      213: -6260342261896740634
+    second: Necromancer_death-export_31
+  - first:
+      213: -8887045355568689933
+    second: Necromancer_death-export_32
+  - first:
+      213: -6490221168114144686
+    second: Necromancer_death-export_33
+  - first:
+      213: 1511468902268816772
+    second: Necromancer_death-export_34
+  - first:
+      213: 3437354775822645496
+    second: Necromancer_death-export_35
+  - first:
+      213: -1303019678664624339
+    second: Necromancer_death-export_36
+  - first:
+      213: 7406968184366718399
+    second: Necromancer_death-export_37
+  - first:
+      213: -7924195364884769883
+    second: Necromancer_death-export_38
+  - first:
+      213: -901739719966584152
+    second: Necromancer_death-export_39
+  - first:
+      213: -6062238894757754457
+    second: Necromancer_death-export_40
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Necromancer_death-export_2
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 0
+        width: 542
+        height: 655
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18a482259c6e79d80800000000000000
+      internalID: -8243866840537216383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Necromancer_death-export_8
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 0
+        width: 542
+        height: 655
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 078a1eb03066378c0800000000000000
+      internalID: -4002743480531965840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Necromancer_death-export_9
+      rect:
+        serializedVersion: 2
+        x: 1619
+        y: 0
+        width: 542
+        height: 655
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95a00d7360ac791e0800000000000000
+      internalID: -2191060565637461415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Necromancer_death-export_12
+      rect:
+        serializedVersion: 2
+        x: 2337
+        y: 0
+        width: 547
+        height: 655
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d0ad13bfdf581db0800000000000000
+      internalID: -4820997986712706857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Necromancer_death-export_15
+      rect:
+        serializedVersion: 2
+        x: 3059
+        y: 0
+        width: 542
+        height: 655
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62c201336a4bbf7e0800000000000000
+      internalID: -1730591005879555034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Necromancer_death-export_17
+      rect:
+        serializedVersion: 2
+        x: 3779
+        y: 0
+        width: 541
+        height: 655
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8e6694b342a669b0800000000000000
+      internalID: -5087200317392130421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: b1b5119af5b027a4d8b5ce6eb97bf95c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Necromancer_death-export_0: 1599446662203328538
+      Necromancer_death-export_1: -160105197177961188
+      Necromancer_death-export_10: -3572669715404277656
+      Necromancer_death-export_11: 1505574743254705933
+      Necromancer_death-export_12: -4820997986712706857
+      Necromancer_death-export_13: 7082449244097399366
+      Necromancer_death-export_14: -1286355915815138199
+      Necromancer_death-export_15: -1730591005879555034
+      Necromancer_death-export_16: 2506184828863351769
+      Necromancer_death-export_17: -5087200317392130421
+      Necromancer_death-export_18: 4315015920840641736
+      Necromancer_death-export_19: -507147185742167734
+      Necromancer_death-export_2: -8243866840537216383
+      Necromancer_death-export_20: -7026751900845442633
+      Necromancer_death-export_21: 8211154174854920233
+      Necromancer_death-export_22: -5445975837622839684
+      Necromancer_death-export_23: -6091784406328548782
+      Necromancer_death-export_24: -8987870706618891336
+      Necromancer_death-export_25: -5926464973230006
+      Necromancer_death-export_26: -8015042494837059143
+      Necromancer_death-export_27: 4636500011035419947
+      Necromancer_death-export_28: 5022513526346559146
+      Necromancer_death-export_29: -2821218448556096697
+      Necromancer_death-export_3: -20791727385030949
+      Necromancer_death-export_30: -4600755288927742075
+      Necromancer_death-export_31: -6260342261896740634
+      Necromancer_death-export_32: -8887045355568689933
+      Necromancer_death-export_33: -6490221168114144686
+      Necromancer_death-export_34: 1511468902268816772
+      Necromancer_death-export_35: 3437354775822645496
+      Necromancer_death-export_36: -1303019678664624339
+      Necromancer_death-export_37: 7406968184366718399
+      Necromancer_death-export_38: -7924195364884769883
+      Necromancer_death-export_39: -901739719966584152
+      Necromancer_death-export_4: -4085137540183316665
+      Necromancer_death-export_40: -6062238894757754457
+      Necromancer_death-export_5: 4902484146839824243
+      Necromancer_death-export_6: -5224359035823657718
+      Necromancer_death-export_7: -5879720802125374316
+      Necromancer_death-export_8: -4002743480531965840
+      Necromancer_death-export_9: -2191060565637461415
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
