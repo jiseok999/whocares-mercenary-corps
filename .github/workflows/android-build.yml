@@ -1,0 +1,103 @@
+name: Android Build
+
+# 트리거:
+#  - main / develop 브랜치로 push (직접 push 또는 PR merge)
+#  - main을 대상으로 하는 PR (빌드가 깨지는지 머지 전에 확인)
+#  - workflow_dispatch (필요할 때 수동 실행)
+on:
+  push:
+    branches: [main, develop]
+  pull_request:
+    branches: [main]
+  workflow_dispatch:
+
+concurrency:
+  group: android-build-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  validate-balance-data:
+    name: Validate balance CSVs
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      # zombies.csv / rounds.csv 데이터 무결성 검사.
+      # 여기서 실패하면 Unity 빌드는 아예 시작하지 않는다 (빌드 시간 낭비 방지 +
+      # "빌드는 됐는데 게임에서 적이 안 나온다" 류의 데이터 문제를 커밋 단계에서 차단).
+      - name: Run CSV validation
+        run: python3 tools/validate_csv.py
+
+  build-android:
+    name: Build Android APK
+    needs: validate-balance-data
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          lfs: true
+
+      # Library 폴더 캐시: Unity의 에셋 재-임포트는 매번 하면 매우 느리므로
+      # Assets/Packages/ProjectSettings 해시가 바뀌지 않으면 이전 Library를 재사용한다.
+      - uses: actions/cache@v4
+        with:
+          path: Library
+          key: Library-Android-${{ hashFiles('Assets/**', 'Packages/**', 'ProjectSettings/**') }}
+          restore-keys: |
+            Library-Android-
+
+      # zombies.csv / rounds.csv -> Assets/Resources, Assets/StreamingAssets 동기화는
+      # CsvResourceSync.cs(IPreprocessBuildWithReport)가 빌드 직전에 자동으로 수행하므로
+      # 여기서 별도 스텝은 필요 없음.
+
+      # 프로젝트에 이미 있는 Assets/Scripts/Editor/BuildScript.cs::BuildAndroid()를
+      # 그대로 호출한다 (로컬 배치 빌드와 CI 빌드가 동일한 코드 경로를 타도록 유지).
+      - name: Build Android APK
+        uses: game-ci/unity-builder@v4
+        env:
+          UNITY_LICENSE: ${{ secrets.UNITY_LICENSE }}
+          UNITY_EMAIL: ${{ secrets.UNITY_EMAIL }}
+          UNITY_PASSWORD: ${{ secrets.UNITY_PASSWORD }}
+        with:
+          unityVersion: 6000.2.6f2
+          targetPlatform: Android
+          buildMethod: BuildScript.BuildAndroid
+          androidKeystoreName: release.keystore
+          androidKeystoreBase64: ${{ secrets.ANDROID_KEYSTORE_BASE64 }}
+          androidKeystorePass: ${{ secrets.ANDROID_KEYSTORE_PASS }}
+          androidKeyaliasName: ${{ secrets.ANDROID_KEY_ALIAS }}
+          androidKeyaliasPass: ${{ secrets.ANDROID_KEY_ALIAS_PASS }}
+
+      # BuildScript.BuildAndroid()는 Builds/Android/WhocaresMercenaryCorps_<version>.apk 로 출력한다.
+      - name: Upload APK artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: android-apk
+          path: Builds/Android/*.apk
+          if-no-files-found: error
+          retention-days: 14
+
+  release:
+    name: Publish GitHub Release
+    needs: build-android
+    if: github.ref == 'refs/heads/main' && github.event_name == 'push'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/download-artifact@v4
+        with:
+          name: android-apk
+          path: dist
+
+      # main에 push될 때마다 커밋 SHA 기반 태그로 릴리스를 만들어 APK를 첨부한다.
+      # README에 안내된 "Releases 탭에서 APK 다운로드" 배포 방식과 연결된다.
+      - name: Create GitHub Release
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: build-${{ github.run_number }}
+          name: Android Build #${{ github.run_number }}
+          files: dist/*.apk
+          generate_release_notes: true
