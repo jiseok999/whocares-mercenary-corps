@@ -15,6 +15,7 @@ CI(GitHub Actions)에서 Unity 빌드를 시작하기 전에 실행되어,
 
 import argparse
 import csv
+import os
 import sys
 from pathlib import Path
 
@@ -22,10 +23,36 @@ NUMERIC_FIELDS = ["Hp", "Speed", "damage", "attackCooldown", "attackRange"]
 SPAWN_GROUP_COUNT = 7  # Spawn_1 .. Spawn_7
 
 
+def write_job_summary(markdown):
+    """GitHub Actions의 Job Summary(실행 결과 화면 상단)에 마크다운을 덧붙인다.
+
+    CI를 매번 들여다볼 필요 없는 기획자가 로그를 뒤지지 않고도 Actions 실행 화면
+    한 곳에서 통과/실패와 구체적인 오류 내용을 바로 볼 수 있도록 하기 위함.
+    GITHUB_STEP_SUMMARY가 설정되지 않은 로컬 실행에서는 조용히 아무 것도 하지 않는다.
+    """
+    summary_path = os.environ.get("GITHUB_STEP_SUMMARY")
+    if not summary_path:
+        return
+    with open(summary_path, "a", encoding="utf-8") as f:
+        f.write(markdown)
+        f.write("\n")
+
+
 def fail(errors):
     print(f"[validate_csv] {len(errors)}개의 오류가 발견되었습니다:\n", file=sys.stderr)
     for e in errors:
         print(f"  - {e}", file=sys.stderr)
+
+    lines = [f"## ❌ 밸런스 데이터 검증 실패 — {len(errors)}건\n"]
+    lines.append("| # | 오류 내용 |")
+    lines.append("|---|---|")
+    for i, e in enumerate(errors, start=1):
+        # 표 안에서 파이프(|)가 컬럼 구분자로 오해되지 않도록 이스케이프.
+        escaped = e.replace("|", "\\|")
+        lines.append(f"| {i} | {escaped} |")
+    lines.append("\n위 행을 참고해 zombies.csv / rounds.csv를 수정한 뒤 다시 커밋하세요.")
+    write_job_summary("\n".join(lines))
+
     sys.exit(1)
 
 
@@ -158,7 +185,14 @@ def main():
     if round_errors:
         fail(round_errors)
 
-    print(f"[validate_csv] OK — zombies.csv: {len(known_uids)}종, rounds.csv: 검증 통과.")
+    ok_message = f"[validate_csv] OK — zombies.csv: {len(known_uids)}종, rounds.csv: 검증 통과."
+    print(ok_message)
+    write_job_summary(
+        f"## ✅ 밸런스 데이터 검증 통과\n\n"
+        f"- zombies.csv: {len(known_uids)}종 등록됨\n"
+        f"- rounds.csv: 라운드 순번 / 참조 UID / min·max 범위 / 컬럼 수 이상 없음\n\n"
+        f"바로 아래 build-android 잡의 결과(빌드된 APK)를 확인하세요."
+    )
     sys.exit(0)
 
 
