@@ -94,6 +94,11 @@ jobs:
     needs: build-android
     if: github.ref == 'refs/heads/main' && github.event_name == 'push'
     runs-on: ubuntu-latest
+    # 기본 GITHUB_TOKEN은 저장소 설정에 따라 읽기 전용일 수 있음.
+    # softprops/action-gh-release가 릴리스를 생성하려면 contents: write 권한이 필요해서
+    # 이 잡에만 최소 권한으로 명시 (workflow 전체에 쓰기 권한을 주지 않기 위함).
+    permissions:
+      contents: write
     steps:
       - uses: actions/download-artifact@v4
         with:
