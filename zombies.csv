@@ -1,5 +1,5 @@
 UID,좀비 이름,Hp,Speed,damage,attackCooldown,attackRange,model
-mon_pig_1,이족 오크,45,1.0,6,1.0,0.55,
+mon_pig_1,이족 오크,45,1.05,6,1.0,0.55,
 mon_pig_2,오물 오크,52,0.92,9,1.1,1.65,
 mon_pig_3,강철 오크,115,0.68,5,1.0,0.55,
 mon_pig_4,질주 오크,38,1.28,8,1.0,0.55,
