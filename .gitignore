@@ -59,3 +59,9 @@ __pycache__/
 .DS_Store
 Thumbs.db
 desktop.ini
+
+# 릴리즈 서명 키스토어 (절대 git에 커밋하지 않음 — 로컬/CI Secret으로만 관리)
+/keystore/
+*.keystore
+*.jks
+*.p12
